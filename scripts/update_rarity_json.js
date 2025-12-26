@@ -76,6 +76,8 @@ async function main() {
   console.log("Parsing...");
   const rarity = parseRarity(html);
 
+  const lastUpdatedText = extractLastUpdatedText(html);
+
   const out = {
     meta: {
       source: SOURCE_URL,

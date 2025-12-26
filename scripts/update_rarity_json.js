@@ -60,6 +60,15 @@ function parseRarity(html) {
   return data;
 }
 
+function extractLastUpdatedText(html) {
+  // Matches: Last Updated: 12-25-2025 06:32
+  // Allows extra whitespace and case differences.
+  const m = html.match(
+    /Last\s*Updated:\s*([0-9]{2}-[0-9]{2}-[0-9]{4}\s+[0-9]{2}:[0-9]{2})/i
+  );
+  return m ? m[1] : null;
+}
+
 async function main() {
   console.log(`Fetching ${SOURCE_URL}...`);
   const html = await fetch(SOURCE_URL);
@@ -71,6 +80,7 @@ async function main() {
     meta: {
       source: SOURCE_URL,
       generatedAt: Date.now(),
+      lastUpdatedText: lastUpdatedText,
       count: Object.keys(rarity).length
     },
     data: rarity

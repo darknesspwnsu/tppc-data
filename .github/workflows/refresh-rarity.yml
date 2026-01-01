@@ -2,7 +2,8 @@ name: Refresh rarity.html
 
 on:
   schedule:
-    - cron: "0 11 * * *"  # 6:00 AM EST = 11:00 UTC
+    - cron: "0 11 * * *"  # 7:00 AM EDT
+    - cron: "0 12 * * *"  # 7:00 AM EST
   workflow_dispatch:
 
 jobs:

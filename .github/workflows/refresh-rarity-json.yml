@@ -2,10 +2,8 @@ name: Update rarity.json
 
 on:
   schedule:
-    # GitHub schedules use UTC.
-    # TPPC updates ~6-7AM EST/EDT, so run safely after that.
-    # 13:20 UTC ≈ 8:20 AM EST (winter). In summer it’s 9:20 AM EDT.
-    - cron: "20 13 * * *"
+    - cron: "0 11 * * *"  # 7:00 AM EDT
+    - cron: "0 12 * * *"  # 7:00 AM EST
   workflow_dispatch:
 
 permissions:

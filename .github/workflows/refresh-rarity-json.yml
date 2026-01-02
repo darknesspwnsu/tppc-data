@@ -15,6 +15,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Setup Node
         uses: actions/setup-node@v4
@@ -30,4 +32,5 @@ jobs:
           git config user.email "tppc-data-bot@users.noreply.github.com"
           git add data/rarity.json
           git diff --staged --quiet || git commit -m "Update rarity.json"
+          git pull --rebase
           git push

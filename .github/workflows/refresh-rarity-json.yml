@@ -2,8 +2,7 @@ name: Update rarity.json
 
 on:
   schedule:
-    - cron: "0 11 * * *"  # 7:00 AM EDT
-    - cron: "0 12 * * *"  # 7:00 AM EST
+    - cron: "*/15 11-12 * * *"  # 6:00-7:59 AM EST / 7:00-8:59 AM EDT
   workflow_dispatch:
 
 permissions:
@@ -23,10 +22,32 @@ jobs:
         with:
           node-version: 20
 
+      - name: Capture previous lastUpdatedText
+        run: |
+          if [ -f data/rarity.json ]; then
+            node -e "const fs=require('fs');const j=JSON.parse(fs.readFileSync('data/rarity.json','utf8')); console.log(j?.meta?.lastUpdatedText||'');" > /tmp/rarity_prev.txt
+          else
+            echo "" > /tmp/rarity_prev.txt
+          fi
+
       - name: Generate rarity.json
         run: node scripts/update_rarity_json.js --out data/rarity.json
 
+      - name: Compare lastUpdatedText
+        id: rarity_check
+        run: |
+          prev=$(cat /tmp/rarity_prev.txt || true)
+          next=$(node -e "const fs=require('fs');const j=JSON.parse(fs.readFileSync('data/rarity.json','utf8')); console.log(j?.meta?.lastUpdatedText||'');")
+          echo "prev=$prev" >> "$GITHUB_OUTPUT"
+          echo "next=$next" >> "$GITHUB_OUTPUT"
+          if [ -n "$prev" ] && [ "$prev" = "$next" ]; then
+            echo "No update detected; skipping commit."
+            git checkout -- data/rarity.json
+            echo "skip_commit=true" >> "$GITHUB_OUTPUT"
+          fi
+
       - name: Commit and push if changed
+        if: steps.rarity_check.outputs.skip_commit != 'true'
         run: |
           git config user.name "tppc-data-bot"
           git config user.email "tppc-data-bot@users.noreply.github.com"

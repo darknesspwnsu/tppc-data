@@ -1,8 +1,8 @@
 {
   "meta": {
     "source": "https://www.tppcrpg.net/rarity.html",
-    "generatedAt": 1781188764383,
-    "lastUpdatedText": "06-11-2026 06:34 EDT",
+    "generatedAt": 1781273421905,
+    "lastUpdatedText": "06-12-2026 06:34 EDT",
     "count": 2935
   },
   "data": {
@@ -4430,14 +4430,6 @@
       "ungendered": 0,
       "total": 17
     },
-    "GoldenSkwovet": {
-      "rank": 536,
-      "male": 8,
-      "female": 9,
-      "genderless": 0,
-      "ungendered": 0,
-      "total": 17
-    },
     "Drakloak": {
       "rank": 536,
       "male": 7,
@@ -4447,7 +4439,7 @@
       "total": 17
     },
     "DarkExeggutor (Alola)": {
-      "rank": 556,
+      "rank": 555,
       "male": 8,
       "female": 10,
       "genderless": 0,
@@ -4455,7 +4447,7 @@
       "total": 18
     },
     "GoldenFeraligatr": {
-      "rank": 556,
+      "rank": 555,
       "male": 13,
       "female": 2,
       "genderless": 0,
@@ -4463,7 +4455,7 @@
       "total": 18
     },
     "GoldenMantyke": {
-      "rank": 556,
+      "rank": 555,
       "male": 9,
       "female": 8,
       "genderless": 0,
@@ -4471,7 +4463,7 @@
       "total": 18
     },
     "ShinyHerdier": {
-      "rank": 556,
+      "rank": 555,
       "male": 5,
       "female": 13,
       "genderless": 0,
@@ -4479,7 +4471,7 @@
       "total": 18
     },
     "ShinyDuosion": {
-      "rank": 556,
+      "rank": 555,
       "male": 8,
       "female": 10,
       "genderless": 0,
@@ -4487,7 +4479,7 @@
       "total": 18
     },
     "DarkMienshao": {
-      "rank": 556,
+      "rank": 555,
       "male": 12,
       "female": 6,
       "genderless": 0,
@@ -4495,7 +4487,7 @@
       "total": 18
     },
     "ShinyVivillon (River)": {
-      "rank": 556,
+      "rank": 555,
       "male": 8,
       "female": 10,
       "genderless": 0,
@@ -4503,7 +4495,7 @@
       "total": 18
     },
     "ShinyDecidueye": {
-      "rank": 556,
+      "rank": 555,
       "male": 18,
       "female": 0,
       "genderless": 0,
@@ -4511,9 +4503,17 @@
       "total": 18
     },
     "GoldenIncineroar": {
-      "rank": 556,
+      "rank": 555,
       "male": 18,
       "female": 0,
+      "genderless": 0,
+      "ungendered": 0,
+      "total": 18
+    },
+    "GoldenSkwovet": {
+      "rank": 555,
+      "male": 9,
+      "female": 9,
       "genderless": 0,
       "ungendered": 0,
       "total": 18
@@ -5286,16 +5286,8 @@
       "ungendered": 0,
       "total": 30
     },
-    "ShinyChewtle": {
-      "rank": 655,
-      "male": 16,
-      "female": 14,
-      "genderless": 0,
-      "ungendered": 0,
-      "total": 30
-    },
     "GoldenBeedrill": {
-      "rank": 662,
+      "rank": 661,
       "male": 18,
       "female": 7,
       "genderless": 0,
@@ -5303,7 +5295,7 @@
       "total": 31
     },
     "GoldenGraveler": {
-      "rank": 662,
+      "rank": 661,
       "male": 17,
       "female": 13,
       "genderless": 0,
@@ -5311,7 +5303,7 @@
       "total": 31
     },
     "DarkSnivy": {
-      "rank": 662,
+      "rank": 661,
       "male": 16,
       "female": 15,
       "genderless": 0,
@@ -5319,7 +5311,7 @@
       "total": 31
     },
     "ShinySnivy": {
-      "rank": 662,
+      "rank": 661,
       "male": 20,
       "female": 11,
       "genderless": 0,
@@ -5327,7 +5319,7 @@
       "total": 31
     },
     "Clawitzer": {
-      "rank": 662,
+      "rank": 661,
       "male": 15,
       "female": 16,
       "genderless": 0,
@@ -5335,31 +5327,23 @@
       "total": 31
     },
     "GoldenDecidueye": {
-      "rank": 662,
+      "rank": 661,
       "male": 30,
       "female": 1,
       "genderless": 0,
       "ungendered": 0,
       "total": 31
     },
-    "DarkSkwovet": {
-      "rank": 662,
-      "male": 15,
-      "female": 16,
-      "genderless": 0,
-      "ungendered": 0,
-      "total": 31
-    },
-    "ShinySkwovet": {
-      "rank": 662,
+    "DarkChewtle": {
+      "rank": 661,
       "male": 16,
       "female": 15,
       "genderless": 0,
       "ungendered": 0,
       "total": 31
     },
-    "DarkChewtle": {
-      "rank": 662,
+    "ShinyChewtle": {
+      "rank": 661,
       "male": 16,
       "female": 15,
       "genderless": 0,
@@ -5367,7 +5351,7 @@
       "total": 31
     },
     "ShinyTorterra": {
-      "rank": 671,
+      "rank": 669,
       "male": 16,
       "female": 16,
       "genderless": 0,
@@ -5375,7 +5359,7 @@
       "total": 32
     },
     "ShinyRotom (Wash)": {
-      "rank": 671,
+      "rank": 669,
       "male": 0,
       "female": 0,
       "genderless": 32,
@@ -5383,15 +5367,23 @@
       "total": 32
     },
     "ShinyRotom (Fan)": {
-      "rank": 671,
+      "rank": 669,
       "male": 0,
       "female": 0,
       "genderless": 32,
       "ungendered": 0,
       "total": 32
     },
-    "DarkNickit": {
-      "rank": 671,
+    "DarkSkwovet": {
+      "rank": 669,
+      "male": 16,
+      "female": 16,
+      "genderless": 0,
+      "ungendered": 0,
+      "total": 32
+    },
+    "ShinySkwovet": {
+      "rank": 669,
       "male": 16,
       "female": 16,
       "genderless": 0,
@@ -5399,7 +5391,7 @@
       "total": 32
     },
     "GoldenLuxray": {
-      "rank": 675,
+      "rank": 674,
       "male": 21,
       "female": 12,
       "genderless": 0,
@@ -5407,7 +5399,7 @@
       "total": 33
     },
     "DarkTepig": {
-      "rank": 675,
+      "rank": 674,
       "male": 17,
       "female": 16,
       "genderless": 0,
@@ -5415,7 +5407,7 @@
       "total": 33
     },
     "DarkPansear": {
-      "rank": 675,
+      "rank": 674,
       "male": 16,
       "female": 17,
       "genderless": 0,
@@ -5423,7 +5415,7 @@
       "total": 33
     },
     "ShinyPansear": {
-      "rank": 675,
+      "rank": 674,
       "male": 14,
       "female": 19,
       "genderless": 0,
@@ -5431,7 +5423,7 @@
       "total": 33
     },
     "DarkCrustle": {
-      "rank": 675,
+      "rank": 674,
       "male": 16,
       "female": 17,
       "genderless": 0,
@@ -5439,7 +5431,7 @@
       "total": 33
     },
     "ShinyGarbodor": {
-      "rank": 675,
+      "rank": 674,
       "male": 14,
       "female": 19,
       "genderless": 0,
@@ -5447,9 +5439,17 @@
       "total": 33
     },
     "Floette": {
-      "rank": 675,
+      "rank": 674,
       "male": 0,
       "female": 33,
+      "genderless": 0,
+      "ungendered": 0,
+      "total": 33
+    },
+    "DarkNickit": {
+      "rank": 674,
+      "male": 16,
+      "female": 17,
       "genderless": 0,
       "ungendered": 0,
       "total": 33
@@ -5806,14 +5806,6 @@
       "ungendered": 0,
       "total": 40
     },
-    "ShinyMeowth (Galar)": {
-      "rank": 726,
-      "male": 24,
-      "female": 17,
-      "genderless": 0,
-      "ungendered": 0,
-      "total": 41
-    },
     "ShinyShellos (East Sea)": {
       "rank": 726,
       "male": 23,
@@ -5839,15 +5831,23 @@
       "total": 41
     },
     "GoldenSandshrew (Alola)": {
-      "rank": 730,
+      "rank": 729,
       "male": 14,
       "female": 17,
       "genderless": 0,
       "ungendered": 11,
       "total": 42
     },
+    "ShinyMeowth (Galar)": {
+      "rank": 729,
+      "male": 25,
+      "female": 17,
+      "genderless": 0,
+      "ungendered": 0,
+      "total": 42
+    },
     "DarkScizor": {
-      "rank": 730,
+      "rank": 729,
       "male": 7,
       "female": 1,
       "genderless": 0,
@@ -5855,7 +5855,7 @@
       "total": 42
     },
     "GoldenBlissey": {
-      "rank": 730,
+      "rank": 729,
       "male": 0,
       "female": 42,
       "genderless": 0,
@@ -5863,7 +5863,7 @@
       "total": 42
     },
     "Zoroark (Hisui)": {
-      "rank": 730,
+      "rank": 729,
       "male": 36,
       "female": 6,
       "genderless": 0,
@@ -5871,7 +5871,7 @@
       "total": 42
     },
     "ShinyComfey": {
-      "rank": 730,
+      "rank": 729,
       "male": 25,
       "female": 17,
       "genderless": 0,
@@ -6982,14 +6982,6 @@
       "ungendered": 0,
       "total": 104
     },
-    "Growlithe (Hisui)": {
-      "rank": 872,
-      "male": 51,
-      "female": 53,
-      "genderless": 0,
-      "ungendered": 0,
-      "total": 104
-    },
     "GoldenHonedge": {
       "rank": 872,
       "male": 55,
@@ -6999,7 +6991,7 @@
       "total": 104
     },
     "ShinyLotad": {
-      "rank": 875,
+      "rank": 874,
       "male": 58,
       "female": 47,
       "genderless": 0,
@@ -7007,7 +6999,7 @@
       "total": 105
     },
     "ShinyLatias": {
-      "rank": 875,
+      "rank": 874,
       "male": 0,
       "female": 0,
       "genderless": 105,
@@ -7015,7 +7007,7 @@
       "total": 105
     },
     "Amoonguss": {
-      "rank": 875,
+      "rank": 874,
       "male": 45,
       "female": 60,
       "genderless": 0,
@@ -7023,23 +7015,15 @@
       "total": 105
     },
     "Vivillon (Monsoon)": {
-      "rank": 875,
+      "rank": 874,
       "male": 62,
       "female": 43,
       "genderless": 0,
       "ungendered": 0,
       "total": 105
     },
-    "DarkToxel": {
-      "rank": 875,
-      "male": 55,
-      "female": 50,
-      "genderless": 0,
-      "ungendered": 0,
-      "total": 105
-    },
     "DarkAzumarill": {
-      "rank": 880,
+      "rank": 878,
       "male": 43,
       "female": 63,
       "genderless": 0,
@@ -7047,20 +7031,44 @@
       "total": 106
     },
     "ShinyMeditite": {
-      "rank": 880,
+      "rank": 878,
       "male": 57,
       "female": 49,
       "genderless": 0,
       "ungendered": 0,
       "total": 106
     },
+    "Delphox": {
+      "rank": 878,
+      "male": 98,
+      "female": 8,
+      "genderless": 0,
+      "ungendered": 0,
+      "total": 106
+    },
     "DarkBergmite": {
-      "rank": 880,
+      "rank": 878,
       "male": 44,
       "female": 62,
       "genderless": 0,
       "ungendered": 0,
       "total": 106
+    },
+    "DarkToxel": {
+      "rank": 878,
+      "male": 56,
+      "female": 50,
+      "genderless": 0,
+      "ungendered": 0,
+      "total": 106
+    },
+    "Growlithe (Hisui)": {
+      "rank": 883,
+      "male": 52,
+      "female": 55,
+      "genderless": 0,
+      "ungendered": 0,
+      "total": 107
     },
     "GoldenWooper": {
       "rank": 883,
@@ -7083,14 +7091,6 @@
       "male": 0,
       "female": 0,
       "genderless": 107,
-      "ungendered": 0,
-      "total": 107
-    },
-    "Delphox": {
-      "rank": 883,
-      "male": 99,
-      "female": 8,
-      "genderless": 0,
       "ungendered": 0,
       "total": 107
     },
@@ -7198,14 +7198,6 @@
       "ungendered": 0,
       "total": 113
     },
-    "DarkHeatran": {
-      "rank": 899,
-      "male": 60,
-      "female": 53,
-      "genderless": 0,
-      "ungendered": 0,
-      "total": 113
-    },
     "DarkDarkrai": {
       "rank": 899,
       "male": 0,
@@ -7230,8 +7222,16 @@
       "ungendered": 0,
       "total": 113
     },
+    "DarkHeatran": {
+      "rank": 903,
+      "male": 60,
+      "female": 54,
+      "genderless": 0,
+      "ungendered": 0,
+      "total": 114
+    },
     "ShinyManaphy": {
-      "rank": 904,
+      "rank": 903,
       "male": 0,
       "female": 0,
       "genderless": 114,
@@ -7239,7 +7239,7 @@
       "total": 114
     },
     "GoldenTogedemaru": {
-      "rank": 904,
+      "rank": 903,
       "male": 57,
       "female": 57,
       "genderless": 0,
@@ -8022,32 +8022,32 @@
       "ungendered": 0,
       "total": 177
     },
-    "ShinyToxel": {
-      "rank": 1003,
-      "male": 78,
-      "female": 100,
-      "genderless": 0,
-      "ungendered": 0,
-      "total": 178
-    },
-    "Exeggutor (Alola)": {
-      "rank": 1004,
-      "male": 91,
-      "female": 82,
-      "genderless": 0,
-      "ungendered": 6,
-      "total": 179
-    },
     "ShinyHoundoom": {
-      "rank": 1004,
+      "rank": 1003,
       "male": 30,
       "female": 15,
       "genderless": 0,
       "ungendered": 134,
       "total": 179
     },
+    "ShinyToxel": {
+      "rank": 1003,
+      "male": 78,
+      "female": 101,
+      "genderless": 0,
+      "ungendered": 0,
+      "total": 179
+    },
+    "Exeggutor (Alola)": {
+      "rank": 1005,
+      "male": 91,
+      "female": 83,
+      "genderless": 0,
+      "ungendered": 6,
+      "total": 180
+    },
     "Galvantula": {
-      "rank": 1006,
+      "rank": 1005,
       "male": 95,
       "female": 85,
       "genderless": 0,
@@ -8055,7 +8055,7 @@
       "total": 180
     },
     "ShinyMienfoo": {
-      "rank": 1006,
+      "rank": 1005,
       "male": 95,
       "female": 85,
       "genderless": 0,
@@ -8542,14 +8542,6 @@
       "ungendered": 0,
       "total": 236
     },
-    "Marowak (Alola)": {
-      "rank": 1068,
-      "male": 135,
-      "female": 93,
-      "genderless": 0,
-      "ungendered": 9,
-      "total": 237
-    },
     "DarkCascoon": {
       "rank": 1068,
       "male": 113,
@@ -8558,8 +8550,16 @@
       "ungendered": 0,
       "total": 237
     },
+    "Marowak (Alola)": {
+      "rank": 1069,
+      "male": 136,
+      "female": 93,
+      "genderless": 0,
+      "ungendered": 9,
+      "total": 238
+    },
     "GoldenTurtwig": {
-      "rank": 1070,
+      "rank": 1069,
       "male": 112,
       "female": 126,
       "genderless": 0,
@@ -8766,20 +8766,20 @@
       "ungendered": 0,
       "total": 260
     },
-    "GoldenSudowoodo": {
+    "Unfezant": {
       "rank": 1096,
+      "male": 140,
+      "female": 121,
+      "genderless": 0,
+      "ungendered": 0,
+      "total": 261
+    },
+    "GoldenSudowoodo": {
+      "rank": 1097,
       "male": 10,
       "female": 8,
       "genderless": 0,
       "ungendered": 244,
-      "total": 262
-    },
-    "Unfezant": {
-      "rank": 1096,
-      "male": 140,
-      "female": 122,
-      "genderless": 0,
-      "ungendered": 0,
       "total": 262
     },
     "GoldenZapdos": {
@@ -9262,14 +9262,6 @@
       "ungendered": 40,
       "total": 309
     },
-    "ShinyAmaura": {
-      "rank": 1157,
-      "male": 143,
-      "female": 166,
-      "genderless": 0,
-      "ungendered": 0,
-      "total": 309
-    },
     "Lurantis": {
       "rank": 1157,
       "male": 151,
@@ -9279,9 +9271,17 @@
       "total": 309
     },
     "DarkDeerling (Summer)": {
-      "rank": 1160,
+      "rank": 1159,
       "male": 160,
       "female": 150,
+      "genderless": 0,
+      "ungendered": 0,
+      "total": 310
+    },
+    "ShinyAmaura": {
+      "rank": 1159,
+      "male": 144,
+      "female": 166,
       "genderless": 0,
       "ungendered": 0,
       "total": 310
@@ -9600,14 +9600,14 @@
     },
     "DarkNidoking": {
       "rank": 1200,
-      "male": 334,
+      "male": 335,
       "female": 0,
       "genderless": 0,
       "ungendered": 3,
-      "total": 337
+      "total": 338
     },
     "GoldenSneasel": {
-      "rank": 1201,
+      "rank": 1200,
       "male": 148,
       "female": 100,
       "genderless": 0,
@@ -9790,14 +9790,6 @@
       "ungendered": 0,
       "total": 352
     },
-    "ShinyNidoking": {
-      "rank": 1224,
-      "male": 263,
-      "female": 0,
-      "genderless": 0,
-      "ungendered": 90,
-      "total": 353
-    },
     "Shelmet": {
       "rank": 1224,
       "male": 170,
@@ -9821,6 +9813,14 @@
       "genderless": 0,
       "ungendered": 0,
       "total": 353
+    },
+    "ShinyNidoking": {
+      "rank": 1227,
+      "male": 263,
+      "female": 0,
+      "genderless": 0,
+      "ungendered": 91,
+      "total": 354
     },
     "Crustle": {
       "rank": 1228,
@@ -9887,15 +9887,15 @@
       "total": 361
     },
     "DarkHappiny": {
-      "rank": 1234,
+      "rank": 1236,
       "male": 0,
-      "female": 361,
+      "female": 362,
       "genderless": 0,
       "ungendered": 0,
-      "total": 361
+      "total": 362
     },
     "DarkTogekiss": {
-      "rank": 1237,
+      "rank": 1236,
       "male": 319,
       "female": 43,
       "genderless": 0,
@@ -9903,7 +9903,7 @@
       "total": 362
     },
     "DarkSeismitoad": {
-      "rank": 1237,
+      "rank": 1236,
       "male": 191,
       "female": 171,
       "genderless": 0,
@@ -10414,8 +10414,16 @@
       "ungendered": 0,
       "total": 406
     },
-    "ShinyArmaldo": {
+    "Dragapult": {
       "rank": 1302,
+      "male": 214,
+      "female": 193,
+      "genderless": 0,
+      "ungendered": 0,
+      "total": 407
+    },
+    "ShinyArmaldo": {
+      "rank": 1303,
       "male": 361,
       "female": 47,
       "genderless": 0,
@@ -10423,17 +10431,9 @@
       "total": 408
     },
     "ShinyDusclops": {
-      "rank": 1302,
+      "rank": 1303,
       "male": 229,
       "female": 179,
-      "genderless": 0,
-      "ungendered": 0,
-      "total": 408
-    },
-    "Dragapult": {
-      "rank": 1302,
-      "male": 214,
-      "female": 194,
       "genderless": 0,
       "ungendered": 0,
       "total": 408
@@ -10465,10 +10465,10 @@
     "Bounsweet": {
       "rank": 1308,
       "male": 0,
-      "female": 413,
+      "female": 412,
       "genderless": 0,
       "ungendered": 0,
-      "total": 413
+      "total": 412
     },
     "GoldenPancham": {
       "rank": 1309,
@@ -10608,11 +10608,11 @@
     },
     "Muk (Alola)": {
       "rank": 1326,
-      "male": 227,
+      "male": 226,
       "female": 212,
       "genderless": 0,
       "ungendered": 0,
-      "total": 439
+      "total": 438
     },
     "Togekiss": {
       "rank": 1327,
@@ -10776,14 +10776,14 @@
     },
     "Reuniclus": {
       "rank": 1347,
-      "male": 233,
+      "male": 232,
       "female": 228,
       "genderless": 0,
       "ungendered": 0,
-      "total": 461
+      "total": 460
     },
     "Pincurchin": {
-      "rank": 1347,
+      "rank": 1348,
       "male": 223,
       "female": 238,
       "genderless": 0,
@@ -10911,12 +10911,12 @@
       "total": 480
     },
     "DarkMienfoo": {
-      "rank": 1363,
+      "rank": 1364,
       "male": 244,
-      "female": 236,
+      "female": 237,
       "genderless": 0,
       "ungendered": 0,
-      "total": 480
+      "total": 481
     },
     "Grubbin": {
       "rank": 1365,
@@ -11014,34 +11014,34 @@
       "ungendered": 0,
       "total": 493
     },
-    "GoldenPoliwag": {
+    "Greninja": {
       "rank": 1377,
+      "male": 435,
+      "female": 59,
+      "genderless": 0,
+      "ungendered": 0,
+      "total": 494
+    },
+    "GoldenPoliwag": {
+      "rank": 1378,
       "male": 300,
       "female": 128,
       "genderless": 0,
       "ungendered": 67,
       "total": 495
     },
-    "Greninja": {
-      "rank": 1377,
-      "male": 436,
-      "female": 59,
-      "genderless": 0,
-      "ungendered": 0,
-      "total": 495
-    },
-    "ShinyPancham": {
-      "rank": 1377,
-      "male": 246,
-      "female": 249,
-      "genderless": 0,
-      "ungendered": 0,
-      "total": 495
-    },
     "DarkDrifloon": {
-      "rank": 1380,
+      "rank": 1379,
       "male": 234,
       "female": 262,
+      "genderless": 0,
+      "ungendered": 0,
+      "total": 496
+    },
+    "ShinyPancham": {
+      "rank": 1379,
+      "male": 247,
+      "female": 249,
       "genderless": 0,
       "ungendered": 0,
       "total": 496
@@ -11135,12 +11135,12 @@
       "total": 508
     },
     "DarkElgyem": {
-      "rank": 1392,
+      "rank": 1391,
       "male": 245,
-      "female": 264,
+      "female": 263,
       "genderless": 0,
       "ungendered": 0,
-      "total": 509
+      "total": 508
     },
     "DarkEmolga": {
       "rank": 1393,
@@ -11350,32 +11350,16 @@
       "ungendered": 0,
       "total": 536
     },
-    "Oricorio (Pa'u)": {
-      "rank": 1419,
-      "male": 135,
-      "female": 403,
-      "genderless": 0,
-      "ungendered": 0,
-      "total": 538
-    },
     "DarkBeautifly": {
-      "rank": 1420,
+      "rank": 1419,
       "male": 263,
       "female": 276,
       "genderless": 0,
       "ungendered": 0,
       "total": 539
     },
-    "Turtonator": {
-      "rank": 1421,
-      "male": 274,
-      "female": 266,
-      "genderless": 0,
-      "ungendered": 0,
-      "total": 540
-    },
     "GoldenPlusle": {
-      "rank": 1422,
+      "rank": 1420,
       "male": 269,
       "female": 272,
       "genderless": 0,
@@ -11383,7 +11367,7 @@
       "total": 541
     },
     "DarkCharmander": {
-      "rank": 1423,
+      "rank": 1421,
       "male": 4,
       "female": 534,
       "genderless": 0,
@@ -11391,12 +11375,28 @@
       "total": 542
     },
     "GoldenBulbasaur": {
-      "rank": 1424,
+      "rank": 1422,
       "male": 359,
       "female": 112,
       "genderless": 2,
       "ungendered": 70,
       "total": 543
+    },
+    "Turtonator": {
+      "rank": 1422,
+      "male": 275,
+      "female": 268,
+      "genderless": 0,
+      "ungendered": 0,
+      "total": 543
+    },
+    "Oricorio (Pa'u)": {
+      "rank": 1424,
+      "male": 137,
+      "female": 407,
+      "genderless": 0,
+      "ungendered": 0,
+      "total": 544
     },
     "ShinyClefairy": {
       "rank": 1425,
@@ -11438,16 +11438,8 @@
       "ungendered": 0,
       "total": 549
     },
-    "Jellicent": {
-      "rank": 1429,
-      "male": 275,
-      "female": 274,
-      "genderless": 0,
-      "ungendered": 0,
-      "total": 549
-    },
     "Krokorok": {
-      "rank": 1431,
+      "rank": 1430,
       "male": 259,
       "female": 296,
       "genderless": 0,
@@ -11455,7 +11447,7 @@
       "total": 555
     },
     "DarkMagmortar": {
-      "rank": 1432,
+      "rank": 1431,
       "male": 467,
       "female": 85,
       "genderless": 0,
@@ -11463,7 +11455,7 @@
       "total": 558
     },
     "Landorus": {
-      "rank": 1432,
+      "rank": 1431,
       "male": 558,
       "female": 0,
       "genderless": 0,
@@ -11471,7 +11463,7 @@
       "total": 558
     },
     "ShinyToxicroak": {
-      "rank": 1434,
+      "rank": 1433,
       "male": 285,
       "female": 275,
       "genderless": 0,
@@ -11479,7 +11471,7 @@
       "total": 560
     },
     "GoldenMinun": {
-      "rank": 1435,
+      "rank": 1434,
       "male": 283,
       "female": 278,
       "genderless": 0,
@@ -11487,7 +11479,7 @@
       "total": 561
     },
     "Shellos (East Sea)": {
-      "rank": 1435,
+      "rank": 1434,
       "male": 258,
       "female": 303,
       "genderless": 0,
@@ -11495,11 +11487,19 @@
       "total": 561
     },
     "ShinyIvysaur": {
-      "rank": 1437,
+      "rank": 1436,
       "male": 426,
       "female": 62,
       "genderless": 0,
       "ungendered": 74,
+      "total": 562
+    },
+    "Jellicent": {
+      "rank": 1436,
+      "male": 283,
+      "female": 279,
+      "genderless": 0,
+      "ungendered": 0,
       "total": 562
     },
     "DarkSquirtle": {
@@ -11518,14 +11518,6 @@
       "ungendered": 0,
       "total": 563
     },
-    "Oricorio (Sensu)": {
-      "rank": 1438,
-      "male": 136,
-      "female": 427,
-      "genderless": 0,
-      "ungendered": 0,
-      "total": 563
-    },
     "DarkBounsweet": {
       "rank": 1438,
       "male": 0,
@@ -11535,7 +11527,7 @@
       "total": 563
     },
     "ShinyRaikou": {
-      "rank": 1442,
+      "rank": 1441,
       "male": 0,
       "female": 0,
       "genderless": 564,
@@ -11543,7 +11535,7 @@
       "total": 564
     },
     "Pyukumuku": {
-      "rank": 1443,
+      "rank": 1442,
       "male": 292,
       "female": 273,
       "genderless": 0,
@@ -11551,7 +11543,7 @@
       "total": 565
     },
     "Volcarona": {
-      "rank": 1444,
+      "rank": 1443,
       "male": 281,
       "female": 285,
       "genderless": 0,
@@ -11559,12 +11551,20 @@
       "total": 566
     },
     "GoldenGeodude": {
-      "rank": 1445,
+      "rank": 1444,
       "male": 303,
       "female": 241,
       "genderless": 0,
       "ungendered": 24,
       "total": 568
+    },
+    "Oricorio (Sensu)": {
+      "rank": 1445,
+      "male": 139,
+      "female": 430,
+      "genderless": 0,
+      "ungendered": 0,
+      "total": 569
     },
     "GoldenBagon": {
       "rank": 1446,
@@ -11582,16 +11582,8 @@
       "ungendered": 0,
       "total": 571
     },
-    "Oricorio (Pom-Pom)": {
-      "rank": 1448,
-      "male": 143,
-      "female": 429,
-      "genderless": 0,
-      "ungendered": 0,
-      "total": 572
-    },
     "ShinySquirtle": {
-      "rank": 1449,
+      "rank": 1448,
       "male": 549,
       "female": 18,
       "genderless": 0,
@@ -11599,7 +11591,7 @@
       "total": 575
     },
     "DarkPorygon-Z": {
-      "rank": 1449,
+      "rank": 1448,
       "male": 0,
       "female": 0,
       "genderless": 575,
@@ -11607,12 +11599,20 @@
       "total": 575
     },
     "ShinySwanna": {
-      "rank": 1451,
+      "rank": 1450,
       "male": 286,
       "female": 290,
       "genderless": 0,
       "ungendered": 0,
       "total": 576
+    },
+    "Oricorio (Pom-Pom)": {
+      "rank": 1451,
+      "male": 145,
+      "female": 433,
+      "genderless": 0,
+      "ungendered": 0,
+      "total": 578
     },
     "GoldenPoochyena": {
       "rank": 1452,
@@ -11895,12 +11895,12 @@
       "total": 627
     },
     "Dottler": {
-      "rank": 1486,
+      "rank": 1487,
       "male": 321,
-      "female": 306,
+      "female": 307,
       "genderless": 0,
       "ungendered": 0,
-      "total": 627
+      "total": 628
     },
     "Cottonee": {
       "rank": 1488,
@@ -11934,6 +11934,14 @@
       "ungendered": 0,
       "total": 634
     },
+    "ShinyGlalie": {
+      "rank": 1492,
+      "male": 347,
+      "female": 289,
+      "genderless": 0,
+      "ungendered": 0,
+      "total": 636
+    },
     "ShinyTynamo": {
       "rank": 1492,
       "male": 298,
@@ -11942,16 +11950,8 @@
       "ungendered": 0,
       "total": 636
     },
-    "ShinyGlalie": {
-      "rank": 1493,
-      "male": 347,
-      "female": 290,
-      "genderless": 0,
-      "ungendered": 0,
-      "total": 637
-    },
     "Foongus": {
-      "rank": 1493,
+      "rank": 1494,
       "male": 292,
       "female": 345,
       "genderless": 0,
@@ -12071,28 +12071,28 @@
       "total": 660
     },
     "Blipbug": {
-      "rank": 1509,
-      "male": 301,
-      "female": 361,
+      "rank": 1508,
+      "male": 303,
+      "female": 357,
       "genderless": 0,
       "ungendered": 0,
-      "total": 662
-    },
-    "Impidimp": {
-      "rank": 1509,
-      "male": 662,
-      "female": 0,
-      "genderless": 0,
-      "ungendered": 0,
-      "total": 662
+      "total": 660
     },
     "ShinyYamask": {
-      "rank": 1511,
+      "rank": 1510,
       "male": 342,
       "female": 321,
       "genderless": 0,
       "ungendered": 0,
       "total": 663
+    },
+    "Impidimp": {
+      "rank": 1511,
+      "male": 664,
+      "female": 0,
+      "genderless": 0,
+      "ungendered": 0,
+      "total": 664
     },
     "DarkTrubbish": {
       "rank": 1512,
@@ -12112,8 +12112,8 @@
     },
     "Orbeetle": {
       "rank": 1512,
-      "male": 316,
-      "female": 350,
+      "male": 315,
+      "female": 351,
       "genderless": 0,
       "ungendered": 0,
       "total": 666
@@ -12151,12 +12151,12 @@
       "total": 675
     },
     "Wooloo": {
-      "rank": 1518,
+      "rank": 1519,
       "male": 330,
-      "female": 345,
+      "female": 348,
       "genderless": 0,
       "ungendered": 0,
-      "total": 675
+      "total": 678
     },
     "ShinyCastform (Snowy)": {
       "rank": 1520,
@@ -12215,12 +12215,12 @@
       "total": 690
     },
     "Morgrem": {
-      "rank": 1526,
-      "male": 690,
+      "rank": 1527,
+      "male": 692,
       "female": 0,
       "genderless": 0,
       "ungendered": 0,
-      "total": 690
+      "total": 692
     },
     "GoldenKangaskhan": {
       "rank": 1528,
@@ -12254,21 +12254,21 @@
       "ungendered": 0,
       "total": 705
     },
-    "Zorua (Hisui)": {
-      "rank": 1531,
-      "male": 609,
-      "female": 96,
-      "genderless": 0,
-      "ungendered": 0,
-      "total": 705
-    },
     "Arceus (Dragon)": {
-      "rank": 1533,
+      "rank": 1532,
       "male": 0,
       "female": 0,
       "genderless": 706,
       "ungendered": 0,
       "total": 706
+    },
+    "Zorua (Hisui)": {
+      "rank": 1533,
+      "male": 611,
+      "female": 97,
+      "genderless": 0,
+      "ungendered": 0,
+      "total": 708
     },
     "DarkSolosis": {
       "rank": 1534,
@@ -12374,16 +12374,8 @@
       "ungendered": 0,
       "total": 729
     },
-    "Dubwool": {
-      "rank": 1546,
-      "male": 365,
-      "female": 364,
-      "genderless": 0,
-      "ungendered": 0,
-      "total": 729
-    },
     "GoldenVulpix": {
-      "rank": 1548,
+      "rank": 1547,
       "male": 265,
       "female": 339,
       "genderless": 0,
@@ -12391,10 +12383,18 @@
       "total": 730
     },
     "ShinyBeldum": {
-      "rank": 1548,
+      "rank": 1547,
       "male": 0,
       "female": 0,
       "genderless": 730,
+      "ungendered": 0,
+      "total": 730
+    },
+    "Dubwool": {
+      "rank": 1547,
+      "male": 367,
+      "female": 363,
+      "genderless": 0,
       "ungendered": 0,
       "total": 730
     },
@@ -12422,35 +12422,35 @@
       "ungendered": 0,
       "total": 735
     },
-    "Fennekin": {
-      "rank": 1553,
-      "male": 636,
-      "female": 100,
-      "genderless": 0,
-      "ungendered": 0,
-      "total": 736
-    },
     "Swanna": {
-      "rank": 1554,
+      "rank": 1553,
       "male": 384,
       "female": 355,
       "genderless": 0,
       "ungendered": 0,
       "total": 739
     },
-    "Eldegoss": {
-      "rank": 1555,
-      "male": 409,
-      "female": 332,
+    "Fennekin": {
+      "rank": 1553,
+      "male": 639,
+      "female": 100,
       "genderless": 0,
       "ungendered": 0,
-      "total": 741
+      "total": 739
     },
     "Victini": {
-      "rank": 1556,
+      "rank": 1555,
       "male": 0,
       "female": 0,
       "genderless": 742,
+      "ungendered": 0,
+      "total": 742
+    },
+    "Eldegoss": {
+      "rank": 1555,
+      "male": 410,
+      "female": 332,
+      "genderless": 0,
       "ungendered": 0,
       "total": 742
     },
@@ -12582,24 +12582,24 @@
       "ungendered": 0,
       "total": 773
     },
-    "DarkJirachi": {
+    "Slowpoke (Galar)": {
       "rank": 1573,
+      "male": 201,
+      "female": 573,
+      "genderless": 0,
+      "ungendered": 0,
+      "total": 774
+    },
+    "DarkJirachi": {
+      "rank": 1574,
       "male": 0,
       "female": 0,
       "genderless": 777,
       "ungendered": 0,
       "total": 777
     },
-    "Slowpoke (Galar)": {
-      "rank": 1574,
-      "male": 201,
-      "female": 577,
-      "genderless": 0,
-      "ungendered": 0,
-      "total": 778
-    },
     "ShinyIgglybuff": {
-      "rank": 1574,
+      "rank": 1575,
       "male": 186,
       "female": 592,
       "genderless": 0,
@@ -12614,21 +12614,21 @@
       "ungendered": 0,
       "total": 783
     },
-    "Morelull": {
-      "rank": 1576,
-      "male": 398,
-      "female": 385,
-      "genderless": 0,
-      "ungendered": 0,
-      "total": 783
-    },
     "ShinyVenipede": {
-      "rank": 1578,
+      "rank": 1577,
       "male": 408,
       "female": 376,
       "genderless": 0,
       "ungendered": 0,
       "total": 784
+    },
+    "Morelull": {
+      "rank": 1578,
+      "male": 399,
+      "female": 386,
+      "genderless": 0,
+      "ungendered": 0,
+      "total": 785
     },
     "Seismitoad": {
       "rank": 1579,
@@ -12782,14 +12782,6 @@
       "ungendered": 0,
       "total": 828
     },
-    "Rhyperior": {
-      "rank": 1598,
-      "male": 427,
-      "female": 400,
-      "genderless": 0,
-      "ungendered": 7,
-      "total": 834
-    },
     "Vivillon (Pokeball)": {
       "rank": 1598,
       "male": 440,
@@ -12808,11 +12800,19 @@
     },
     "Gossifleur": {
       "rank": 1598,
-      "male": 420,
-      "female": 414,
+      "male": 418,
+      "female": 416,
       "genderless": 0,
       "ungendered": 0,
       "total": 834
+    },
+    "Rhyperior": {
+      "rank": 1601,
+      "male": 427,
+      "female": 401,
+      "genderless": 0,
+      "ungendered": 7,
+      "total": 835
     },
     "ShinyBanette": {
       "rank": 1602,
@@ -12905,10 +12905,10 @@
     "Heatmor": {
       "rank": 1613,
       "male": 411,
-      "female": 469,
+      "female": 468,
       "genderless": 0,
       "ungendered": 0,
-      "total": 880
+      "total": 879
     },
     "Goomy": {
       "rank": 1614,
@@ -12966,21 +12966,29 @@
       "ungendered": 0,
       "total": 910
     },
-    "Applin": {
-      "rank": 1621,
-      "male": 430,
-      "female": 483,
-      "genderless": 0,
-      "ungendered": 0,
-      "total": 913
-    },
     "ShinyKakuna": {
-      "rank": 1622,
+      "rank": 1621,
       "male": 458,
       "female": 457,
       "genderless": 0,
       "ungendered": 0,
       "total": 915
+    },
+    "Applin": {
+      "rank": 1621,
+      "male": 432,
+      "female": 483,
+      "genderless": 0,
+      "ungendered": 0,
+      "total": 915
+    },
+    "Rapidash (Galar)": {
+      "rank": 1623,
+      "male": 453,
+      "female": 468,
+      "genderless": 0,
+      "ungendered": 0,
+      "total": 921
     },
     "GoldenYanma": {
       "rank": 1623,
@@ -12989,14 +12997,6 @@
       "genderless": 1,
       "ungendered": 73,
       "total": 921
-    },
-    "Rapidash (Galar)": {
-      "rank": 1624,
-      "male": 454,
-      "female": 468,
-      "genderless": 0,
-      "ungendered": 0,
-      "total": 922
     },
     "Serperior": {
       "rank": 1625,
@@ -13110,14 +13110,6 @@
       "ungendered": 0,
       "total": 958
     },
-    "DarkGligar": {
-      "rank": 1638,
-      "male": 636,
-      "female": 322,
-      "genderless": 0,
-      "ungendered": 0,
-      "total": 958
-    },
     "Leavanny": {
       "rank": 1638,
       "male": 528,
@@ -13126,8 +13118,16 @@
       "ungendered": 0,
       "total": 958
     },
+    "DarkGligar": {
+      "rank": 1640,
+      "male": 637,
+      "female": 322,
+      "genderless": 0,
+      "ungendered": 0,
+      "total": 959
+    },
     "Klink": {
-      "rank": 1641,
+      "rank": 1640,
       "male": 0,
       "female": 0,
       "genderless": 959,
@@ -13217,10 +13217,10 @@
     "Oricorio (Baile)": {
       "rank": 1652,
       "male": 237,
-      "female": 751,
+      "female": 757,
       "genderless": 0,
       "ungendered": 0,
-      "total": 988
+      "total": 994
     },
     "DarkMarowak": {
       "rank": 1653,
@@ -13374,8 +13374,16 @@
       "ungendered": 0,
       "total": 1080
     },
-    "ShinyProbopass": {
+    "Shiinotic": {
       "rank": 1672,
+      "male": 523,
+      "female": 561,
+      "genderless": 0,
+      "ungendered": 0,
+      "total": 1084
+    },
+    "ShinyProbopass": {
+      "rank": 1673,
       "male": 530,
       "female": 555,
       "genderless": 0,
@@ -13383,20 +13391,12 @@
       "total": 1085
     },
     "GoldenLotad": {
-      "rank": 1673,
+      "rank": 1674,
       "male": 503,
       "female": 513,
       "genderless": 0,
       "ungendered": 70,
       "total": 1086
-    },
-    "Shiinotic": {
-      "rank": 1674,
-      "male": 523,
-      "female": 564,
-      "genderless": 0,
-      "ungendered": 0,
-      "total": 1087
     },
     "Lumineon": {
       "rank": 1675,
@@ -13464,8 +13464,8 @@
     },
     "Drampa": {
       "rank": 1683,
-      "male": 579,
-      "female": 546,
+      "male": 580,
+      "female": 545,
       "genderless": 0,
       "ungendered": 0,
       "total": 1125
@@ -13473,10 +13473,10 @@
     "Litleo": {
       "rank": 1684,
       "male": 136,
-      "female": 995,
+      "female": 996,
       "genderless": 0,
       "ungendered": 0,
-      "total": 1131
+      "total": 1132
     },
     "ShinyTimburr": {
       "rank": 1685,
@@ -13648,14 +13648,14 @@
     },
     "ShinyCarnivine": {
       "rank": 1706,
-      "male": 624,
+      "male": 623,
       "female": 567,
       "genderless": 0,
       "ungendered": 0,
-      "total": 1191
+      "total": 1190
     },
     "Emolga": {
-      "rank": 1706,
+      "rank": 1707,
       "male": 591,
       "female": 600,
       "genderless": 0,
@@ -13686,16 +13686,8 @@
       "ungendered": 42,
       "total": 1201
     },
-    "Skwovet": {
-      "rank": 1711,
-      "male": 623,
-      "female": 584,
-      "genderless": 0,
-      "ungendered": 0,
-      "total": 1207
-    },
     "ShinyScraggy": {
-      "rank": 1712,
+      "rank": 1711,
       "male": 639,
       "female": 574,
       "genderless": 0,
@@ -13703,7 +13695,7 @@
       "total": 1213
     },
     "Rufflet": {
-      "rank": 1713,
+      "rank": 1712,
       "male": 1216,
       "female": 0,
       "genderless": 0,
@@ -13711,7 +13703,7 @@
       "total": 1216
     },
     "DarkSmoochum": {
-      "rank": 1714,
+      "rank": 1713,
       "male": 0,
       "female": 1221,
       "genderless": 0,
@@ -13719,12 +13711,20 @@
       "total": 1221
     },
     "Cascoon": {
-      "rank": 1715,
+      "rank": 1714,
       "male": 548,
       "female": 667,
       "genderless": 0,
       "ungendered": 7,
       "total": 1222
+    },
+    "Skwovet": {
+      "rank": 1715,
+      "male": 634,
+      "female": 591,
+      "genderless": 0,
+      "ungendered": 0,
+      "total": 1225
     },
     "DarkPelipper": {
       "rank": 1716,
@@ -13736,11 +13736,11 @@
     },
     "Bergmite": {
       "rank": 1717,
-      "male": 593,
+      "male": 595,
       "female": 638,
       "genderless": 0,
       "ungendered": 0,
-      "total": 1231
+      "total": 1233
     },
     "DarkAriados": {
       "rank": 1718,
@@ -13814,21 +13814,21 @@
       "ungendered": 0,
       "total": 1274
     },
-    "Sneasel (Hisui)": {
-      "rank": 1727,
-      "male": 631,
-      "female": 646,
-      "genderless": 0,
-      "ungendered": 0,
-      "total": 1277
-    },
     "Ludicolo": {
-      "rank": 1728,
+      "rank": 1727,
       "male": 670,
       "female": 584,
       "genderless": 0,
       "ungendered": 24,
       "total": 1278
+    },
+    "Sneasel (Hisui)": {
+      "rank": 1728,
+      "male": 631,
+      "female": 649,
+      "genderless": 0,
+      "ungendered": 0,
+      "total": 1280
     },
     "ShinyDugtrio": {
       "rank": 1729,
@@ -13854,21 +13854,21 @@
       "ungendered": 0,
       "total": 1289
     },
-    "Froakie": {
-      "rank": 1732,
-      "male": 1143,
-      "female": 148,
-      "genderless": 0,
-      "ungendered": 0,
-      "total": 1291
-    },
     "DarkNumel": {
-      "rank": 1733,
+      "rank": 1732,
       "male": 613,
       "female": 681,
       "genderless": 0,
       "ungendered": 0,
       "total": 1294
+    },
+    "Froakie": {
+      "rank": 1733,
+      "male": 1147,
+      "female": 150,
+      "genderless": 0,
+      "ungendered": 0,
+      "total": 1297
     },
     "Arceus (Ground)": {
       "rank": 1734,
@@ -14286,14 +14286,6 @@
       "ungendered": 0,
       "total": 1458
     },
-    "Hypno": {
-      "rank": 1786,
-      "male": 799,
-      "female": 632,
-      "genderless": 0,
-      "ungendered": 28,
-      "total": 1459
-    },
     "DarkShuppet": {
       "rank": 1786,
       "male": 712,
@@ -14301,6 +14293,14 @@
       "genderless": 0,
       "ungendered": 0,
       "total": 1459
+    },
+    "Hypno": {
+      "rank": 1787,
+      "male": 800,
+      "female": 632,
+      "genderless": 0,
+      "ungendered": 28,
+      "total": 1460
     },
     "DarkSlugma": {
       "rank": 1788,
@@ -14313,13 +14313,13 @@
     "DarkVulpix": {
       "rank": 1789,
       "male": 295,
-      "female": 826,
+      "female": 825,
       "genderless": 0,
       "ungendered": 347,
-      "total": 1468
+      "total": 1467
     },
     "DarkSeadra": {
-      "rank": 1789,
+      "rank": 1790,
       "male": 493,
       "female": 975,
       "genderless": 0,
@@ -14465,10 +14465,10 @@
     "DarkElectabuzz": {
       "rank": 1808,
       "male": 1281,
-      "female": 276,
+      "female": 277,
       "genderless": 0,
       "ungendered": 0,
-      "total": 1557
+      "total": 1558
     },
     "DarkGolbat": {
       "rank": 1809,
@@ -14494,16 +14494,8 @@
       "ungendered": 0,
       "total": 1562
     },
-    "Toxel": {
-      "rank": 1812,
-      "male": 781,
-      "female": 782,
-      "genderless": 0,
-      "ungendered": 0,
-      "total": 1563
-    },
     "DarkRemoraid": {
-      "rank": 1813,
+      "rank": 1812,
       "male": 283,
       "female": 1283,
       "genderless": 0,
@@ -14511,7 +14503,7 @@
       "total": 1566
     },
     "Mimikyu": {
-      "rank": 1813,
+      "rank": 1812,
       "male": 752,
       "female": 814,
       "genderless": 0,
@@ -14519,7 +14511,7 @@
       "total": 1566
     },
     "DarkDwebble": {
-      "rank": 1815,
+      "rank": 1814,
       "male": 747,
       "female": 822,
       "genderless": 0,
@@ -14527,7 +14519,7 @@
       "total": 1569
     },
     "ShinyRattata": {
-      "rank": 1816,
+      "rank": 1815,
       "male": 919,
       "female": 654,
       "genderless": 0,
@@ -14535,20 +14527,28 @@
       "total": 1573
     },
     "Sawk": {
-      "rank": 1817,
-      "male": 1574,
+      "rank": 1815,
+      "male": 1573,
       "female": 0,
       "genderless": 0,
       "ungendered": 0,
-      "total": 1574
+      "total": 1573
+    },
+    "Toxel": {
+      "rank": 1817,
+      "male": 785,
+      "female": 790,
+      "genderless": 0,
+      "ungendered": 0,
+      "total": 1575
     },
     "DarkSwellow": {
       "rank": 1818,
       "male": 533,
-      "female": 1050,
+      "female": 1051,
       "genderless": 0,
       "ungendered": 0,
-      "total": 1583
+      "total": 1584
     },
     "DarkEkans": {
       "rank": 1819,
@@ -14623,12 +14623,12 @@
       "total": 1622
     },
     "Mienfoo": {
-      "rank": 1828,
+      "rank": 1827,
       "male": 774,
-      "female": 849,
+      "female": 848,
       "genderless": 0,
       "ungendered": 0,
-      "total": 1623
+      "total": 1622
     },
     "DarkNinetales": {
       "rank": 1829,
@@ -14776,11 +14776,11 @@
     },
     "Ponyta (Galar)": {
       "rank": 1847,
-      "male": 880,
+      "male": 881,
       "female": 864,
       "genderless": 0,
       "ungendered": 0,
-      "total": 1744
+      "total": 1745
     },
     "DarkPachirisu": {
       "rank": 1848,
@@ -14854,21 +14854,21 @@
       "ungendered": 0,
       "total": 1762
     },
-    "ShinyPrimeape": {
+    "Sinistea": {
       "rank": 1857,
+      "male": 0,
+      "female": 0,
+      "genderless": 1769,
+      "ungendered": 0,
+      "total": 1769
+    },
+    "ShinyPrimeape": {
+      "rank": 1858,
       "male": 948,
       "female": 823,
       "genderless": 0,
       "ungendered": 0,
       "total": 1771
-    },
-    "Sinistea": {
-      "rank": 1858,
-      "male": 0,
-      "female": 0,
-      "genderless": 1773,
-      "ungendered": 0,
-      "total": 1773
     },
     "DarkSmeargle": {
       "rank": 1859,
@@ -14944,11 +14944,11 @@
     },
     "Tyrunt": {
       "rank": 1868,
-      "male": 1659,
+      "male": 1662,
       "female": 186,
       "genderless": 0,
       "ungendered": 0,
-      "total": 1845
+      "total": 1848
     },
     "ShinyCaterpie": {
       "rank": 1869,
@@ -15072,11 +15072,11 @@
     },
     "Muk": {
       "rank": 1884,
-      "male": 920,
+      "male": 921,
       "female": 928,
       "genderless": 0,
       "ungendered": 90,
-      "total": 1938
+      "total": 1939
     },
     "ShinyVictreebel": {
       "rank": 1885,
@@ -15169,10 +15169,10 @@
     "Swalot": {
       "rank": 1896,
       "male": 775,
-      "female": 1184,
+      "female": 1183,
       "genderless": 0,
       "ungendered": 20,
-      "total": 1979
+      "total": 1978
     },
     "DarkNidoqueen": {
       "rank": 1897,
@@ -15241,10 +15241,10 @@
     "Marowak": {
       "rank": 1905,
       "male": 1009,
-      "female": 943,
+      "female": 944,
       "genderless": 0,
       "ungendered": 63,
-      "total": 2015
+      "total": 2016
     },
     "DarkCastform": {
       "rank": 1906,
@@ -15310,20 +15310,20 @@
       "ungendered": 0,
       "total": 2043
     },
-    "Roggenrola": {
-      "rank": 1914,
-      "male": 983,
-      "female": 1061,
-      "genderless": 0,
-      "ungendered": 0,
-      "total": 2044
-    },
     "DarkSwablu": {
-      "rank": 1915,
+      "rank": 1914,
       "male": 1013,
       "female": 678,
       "genderless": 0,
       "ungendered": 354,
+      "total": 2045
+    },
+    "Roggenrola": {
+      "rank": 1914,
+      "male": 983,
+      "female": 1062,
+      "genderless": 0,
+      "ungendered": 0,
       "total": 2045
     },
     "ShinyWhismur": {
@@ -15486,14 +15486,6 @@
       "ungendered": 34,
       "total": 2119
     },
-    "ShinyBellsprout": {
-      "rank": 1936,
-      "male": 1055,
-      "female": 1072,
-      "genderless": 0,
-      "ungendered": 0,
-      "total": 2127
-    },
     "DarkMedicham": {
       "rank": 1936,
       "male": 1667,
@@ -15501,6 +15493,14 @@
       "genderless": 0,
       "ungendered": 0,
       "total": 2127
+    },
+    "ShinyBellsprout": {
+      "rank": 1937,
+      "male": 1055,
+      "female": 1073,
+      "genderless": 0,
+      "ungendered": 0,
+      "total": 2128
     },
     "DarkSteelix": {
       "rank": 1938,
@@ -15576,11 +15576,11 @@
     },
     "Rampardos": {
       "rank": 1947,
-      "male": 1923,
+      "male": 1924,
       "female": 269,
       "genderless": 0,
       "ungendered": 0,
-      "total": 2192
+      "total": 2193
     },
     "ShinyPidgeot": {
       "rank": 1948,
@@ -15855,12 +15855,12 @@
       "total": 2308
     },
     "DarkClamperl": {
-      "rank": 1982,
+      "rank": 1981,
       "male": 1024,
-      "female": 1285,
+      "female": 1284,
       "genderless": 0,
       "ungendered": 0,
-      "total": 2309
+      "total": 2308
     },
     "Gorebyss": {
       "rank": 1983,
@@ -15921,13 +15921,13 @@
     "ShinyCorsola": {
       "rank": 1990,
       "male": 308,
-      "female": 1737,
+      "female": 1736,
       "genderless": 0,
       "ungendered": 300,
-      "total": 2345
+      "total": 2344
     },
     "DarkLunatone": {
-      "rank": 1990,
+      "rank": 1991,
       "male": 0,
       "female": 0,
       "genderless": 2345,
@@ -16163,8 +16163,8 @@
       "male": 2052,
       "female": 0,
       "genderless": 0,
-      "ungendered": 406,
-      "total": 2458
+      "ungendered": 405,
+      "total": 2457
     },
     "Drifblim": {
       "rank": 2021,
@@ -16417,13 +16417,13 @@
     "DarkExeggutor": {
       "rank": 2052,
       "male": 458,
-      "female": 2151,
+      "female": 2152,
       "genderless": 0,
       "ungendered": 0,
-      "total": 2609
+      "total": 2610
     },
     "ShinyPiloswine": {
-      "rank": 2053,
+      "rank": 2052,
       "male": 1923,
       "female": 687,
       "genderless": 0,
@@ -16688,11 +16688,11 @@
     },
     "Deino": {
       "rank": 2086,
-      "male": 1357,
+      "male": 1356,
       "female": 1401,
       "genderless": 0,
       "ungendered": 0,
-      "total": 2758
+      "total": 2757
     },
     "Axew": {
       "rank": 2087,
@@ -16729,10 +16729,10 @@
     "ShinyPichu": {
       "rank": 2091,
       "male": 1783,
-      "female": 890,
+      "female": 889,
       "genderless": 0,
       "ungendered": 109,
-      "total": 2782
+      "total": 2781
     },
     "ShinySkiploom": {
       "rank": 2092,
@@ -16894,20 +16894,20 @@
       "ungendered": 418,
       "total": 2896
     },
-    "DarkRelicanth": {
-      "rank": 2112,
-      "male": 2847,
-      "female": 51,
-      "genderless": 0,
-      "ungendered": 0,
-      "total": 2898
-    },
     "ShinyBellossom": {
-      "rank": 2113,
+      "rank": 2112,
       "male": 1079,
       "female": 1819,
       "genderless": 0,
       "ungendered": 1,
+      "total": 2899
+    },
+    "DarkRelicanth": {
+      "rank": 2112,
+      "male": 2848,
+      "female": 51,
+      "genderless": 0,
+      "ungendered": 0,
       "total": 2899
     },
     "ShinySpinda": {
@@ -16960,11 +16960,19 @@
     },
     "ShinyGranbull": {
       "rank": 2120,
-      "male": 330,
+      "male": 331,
       "female": 2598,
       "genderless": 0,
       "ungendered": 0,
-      "total": 2928
+      "total": 2929
+    },
+    "Zapdos": {
+      "rank": 2121,
+      "male": 0,
+      "female": 0,
+      "genderless": 2879,
+      "ungendered": 58,
+      "total": 2937
     },
     "DarkDratini": {
       "rank": 2121,
@@ -16973,14 +16981,6 @@
       "genderless": 0,
       "ungendered": 0,
       "total": 2937
-    },
-    "Zapdos": {
-      "rank": 2122,
-      "male": 0,
-      "female": 0,
-      "genderless": 2880,
-      "ungendered": 58,
-      "total": 2938
     },
     "Glalie": {
       "rank": 2123,
@@ -17034,9 +17034,9 @@
       "rank": 2129,
       "male": 0,
       "female": 0,
-      "genderless": 2956,
+      "genderless": 2957,
       "ungendered": 40,
-      "total": 2996
+      "total": 2997
     },
     "ShinyWingull": {
       "rank": 2130,
@@ -17598,14 +17598,6 @@
       "ungendered": 0,
       "total": 3265
     },
-    "ShinyTangela": {
-      "rank": 2200,
-      "male": 2027,
-      "female": 1239,
-      "genderless": 1,
-      "ungendered": 0,
-      "total": 3267
-    },
     "DarkUnownZ": {
       "rank": 2200,
       "male": 0,
@@ -17614,13 +17606,21 @@
       "ungendered": 0,
       "total": 3267
     },
+    "ShinyTangela": {
+      "rank": 2201,
+      "male": 2028,
+      "female": 1239,
+      "genderless": 1,
+      "ungendered": 0,
+      "total": 3268
+    },
     "ShinyMetapod": {
       "rank": 2202,
-      "male": 1544,
+      "male": 1545,
       "female": 1644,
       "genderless": 0,
       "ungendered": 80,
-      "total": 3268
+      "total": 3269
     },
     "DarkCyndaquil": {
       "rank": 2203,
@@ -17742,6 +17742,14 @@
       "ungendered": 0,
       "total": 3322
     },
+    "Arbok": {
+      "rank": 2218,
+      "male": 1968,
+      "female": 1311,
+      "genderless": 0,
+      "ungendered": 46,
+      "total": 3325
+    },
     "ShinyGolduck": {
       "rank": 2218,
       "male": 1065,
@@ -17749,14 +17757,6 @@
       "genderless": 0,
       "ungendered": 15,
       "total": 3325
-    },
-    "Arbok": {
-      "rank": 2219,
-      "male": 1968,
-      "female": 1312,
-      "genderless": 0,
-      "ungendered": 46,
-      "total": 3326
     },
     "ShinyElectrode": {
       "rank": 2220,
@@ -17968,11 +17968,11 @@
     },
     "ShinyPinsir": {
       "rank": 2246,
-      "male": 1743,
-      "female": 1489,
+      "male": 1744,
+      "female": 1490,
       "genderless": 0,
       "ungendered": 256,
-      "total": 3488
+      "total": 3490
     },
     "ShinyUnownQ": {
       "rank": 2247,
@@ -18057,10 +18057,10 @@
     "ShinyGengar": {
       "rank": 2257,
       "male": 1851,
-      "female": 1535,
+      "female": 1534,
       "genderless": 0,
       "ungendered": 150,
-      "total": 3536
+      "total": 3535
     },
     "Forretress": {
       "rank": 2258,
@@ -18296,8 +18296,8 @@
     },
     "DarkBreloom": {
       "rank": 2287,
-      "male": 1556,
-      "female": 2082,
+      "male": 1557,
+      "female": 2081,
       "genderless": 0,
       "ungendered": 0,
       "total": 3638
@@ -18512,11 +18512,11 @@
     },
     "ShinyTogetic": {
       "rank": 2314,
-      "male": 3088,
+      "male": 3089,
       "female": 609,
       "genderless": 0,
       "ungendered": 90,
-      "total": 3787
+      "total": 3788
     },
     "ShinyUnownE": {
       "rank": 2315,
@@ -18536,11 +18536,11 @@
     },
     "Leafeon": {
       "rank": 2317,
-      "male": 3192,
+      "male": 3191,
       "female": 607,
       "genderless": 0,
       "ungendered": 11,
-      "total": 3810
+      "total": 3809
     },
     "ShinyPoochyena": {
       "rank": 2318,
@@ -18609,10 +18609,10 @@
     "Ursaring": {
       "rank": 2326,
       "male": 1840,
-      "female": 1979,
+      "female": 1980,
       "genderless": 0,
       "ungendered": 55,
-      "total": 3874
+      "total": 3875
     },
     "Abomasnow": {
       "rank": 2327,
@@ -18750,19 +18750,19 @@
       "ungendered": 29,
       "total": 3993
     },
+    "ShinyCleffa": {
+      "rank": 2344,
+      "male": 761,
+      "female": 3242,
+      "genderless": 0,
+      "ungendered": 0,
+      "total": 4003
+    },
     "ShinyClaydol": {
       "rank": 2344,
       "male": 0,
       "female": 0,
-      "genderless": 4002,
-      "ungendered": 0,
-      "total": 4002
-    },
-    "ShinyCleffa": {
-      "rank": 2345,
-      "male": 761,
-      "female": 3242,
-      "genderless": 0,
+      "genderless": 4003,
       "ungendered": 0,
       "total": 4003
     },
@@ -18800,14 +18800,14 @@
     },
     "DarkNidoranM": {
       "rank": 2350,
-      "male": 4032,
+      "male": 4031,
       "female": 0,
       "genderless": 0,
       "ungendered": 17,
-      "total": 4049
+      "total": 4048
     },
     "ShinySlowbro": {
-      "rank": 2350,
+      "rank": 2351,
       "male": 2302,
       "female": 1746,
       "genderless": 0,
@@ -18823,12 +18823,12 @@
       "total": 4059
     },
     "DarkSlaking": {
-      "rank": 2352,
+      "rank": 2353,
       "male": 1826,
-      "female": 2233,
+      "female": 2234,
       "genderless": 0,
       "ungendered": 0,
-      "total": 4059
+      "total": 4060
     },
     "Altaria": {
       "rank": 2354,
@@ -18904,11 +18904,11 @@
     },
     "DarkArcanine": {
       "rank": 2363,
-      "male": 3432,
+      "male": 3433,
       "female": 712,
       "genderless": 0,
       "ungendered": 0,
-      "total": 4144
+      "total": 4145
     },
     "ShinyTentacruel": {
       "rank": 2364,
@@ -19072,11 +19072,11 @@
     },
     "ShinySceptile": {
       "rank": 2384,
-      "male": 3803,
+      "male": 3804,
       "female": 482,
       "genderless": 0,
       "ungendered": 19,
-      "total": 4304
+      "total": 4305
     },
     "ShinyMagmar": {
       "rank": 2385,
@@ -19142,20 +19142,20 @@
       "ungendered": 0,
       "total": 4405
     },
-    "ShinyMagikarp": {
+    "DarkTeddiursa": {
       "rank": 2393,
+      "male": 1970,
+      "female": 1983,
+      "genderless": 0,
+      "ungendered": 458,
+      "total": 4411
+    },
+    "ShinyMagikarp": {
+      "rank": 2394,
       "male": 1992,
       "female": 1987,
       "genderless": 2,
       "ungendered": 431,
-      "total": 4412
-    },
-    "DarkTeddiursa": {
-      "rank": 2393,
-      "male": 1971,
-      "female": 1983,
-      "genderless": 0,
-      "ungendered": 458,
       "total": 4412
     },
     "ShinyAnorith": {
@@ -19273,10 +19273,10 @@
     "ShinyGirafarig": {
       "rank": 2409,
       "male": 2320,
-      "female": 2259,
+      "female": 2260,
       "genderless": 0,
       "ungendered": 0,
-      "total": 4579
+      "total": 4580
     },
     "ShinyDelibird": {
       "rank": 2410,
@@ -19345,10 +19345,10 @@
     "Blitzle": {
       "rank": 2418,
       "male": 2232,
-      "female": 2436,
+      "female": 2435,
       "genderless": 0,
       "ungendered": 0,
-      "total": 4668
+      "total": 4667
     },
     "ShinyGyarados": {
       "rank": 2419,
@@ -19544,11 +19544,11 @@
     },
     "ShinySandslash": {
       "rank": 2443,
-      "male": 2236,
+      "male": 2235,
       "female": 2627,
       "genderless": 0,
       "ungendered": 64,
-      "total": 4927
+      "total": 4926
     },
     "DarkRhyhorn": {
       "rank": 2444,
@@ -19592,11 +19592,11 @@
     },
     "ShinyGrovyle": {
       "rank": 2449,
-      "male": 4732,
+      "male": 4731,
       "female": 290,
       "genderless": 0,
       "ungendered": 18,
-      "total": 5040
+      "total": 5039
     },
     "ShinyMachamp": {
       "rank": 2450,
@@ -19648,11 +19648,11 @@
     },
     "ShinyHeracross": {
       "rank": 2456,
-      "male": 2572,
+      "male": 2573,
       "female": 2563,
       "genderless": 0,
       "ungendered": 0,
-      "total": 5135
+      "total": 5136
     },
     "ShinyQuilava": {
       "rank": 2457,
@@ -19856,11 +19856,11 @@
     },
     "Vaporeon": {
       "rank": 2482,
-      "male": 4495,
+      "male": 4494,
       "female": 835,
       "genderless": 0,
       "ungendered": 239,
-      "total": 5569
+      "total": 5568
     },
     "ShinyAlakazam": {
       "rank": 2483,
@@ -19919,12 +19919,12 @@
       "total": 5716
     },
     "ShinyGrowlithe": {
-      "rank": 2489,
-      "male": 4335,
+      "rank": 2490,
+      "male": 4336,
       "female": 1186,
       "genderless": 1,
       "ungendered": 194,
-      "total": 5716
+      "total": 5717
     },
     "Marshtomp": {
       "rank": 2491,
@@ -20033,10 +20033,10 @@
     "ShinyCrobat": {
       "rank": 2504,
       "male": 3056,
-      "female": 2923,
+      "female": 2922,
       "genderless": 0,
       "ungendered": 0,
-      "total": 5979
+      "total": 5978
     },
     "Rotom": {
       "rank": 2505,
@@ -20352,11 +20352,11 @@
     },
     "Raichu": {
       "rank": 2544,
-      "male": 4352,
+      "male": 4351,
       "female": 2775,
       "genderless": 0,
       "ungendered": 74,
-      "total": 7201
+      "total": 7200
     },
     "Kingdra": {
       "rank": 2545,
@@ -20392,11 +20392,11 @@
     },
     "ShinyAltaria": {
       "rank": 2549,
-      "male": 4469,
+      "male": 4470,
       "female": 2919,
       "genderless": 0,
       "ungendered": 25,
-      "total": 7413
+      "total": 7414
     },
     "Machamp": {
       "rank": 2550,
@@ -20434,17 +20434,17 @@
       "rank": 2554,
       "male": 1,
       "female": 0,
-      "genderless": 7589,
+      "genderless": 7588,
       "ungendered": 44,
-      "total": 7634
+      "total": 7633
     },
     "Sandslash": {
       "rank": 2555,
       "male": 3126,
-      "female": 4487,
+      "female": 4488,
       "genderless": 0,
       "ungendered": 53,
-      "total": 7666
+      "total": 7667
     },
     "DarkAerodactyl": {
       "rank": 2556,
@@ -20456,11 +20456,11 @@
     },
     "Luxray": {
       "rank": 2557,
-      "male": 3874,
+      "male": 3875,
       "female": 3888,
       "genderless": 0,
       "ungendered": 0,
-      "total": 7762
+      "total": 7763
     },
     "ShinySlaking": {
       "rank": 2558,
@@ -20480,11 +20480,11 @@
     },
     "Swampert": {
       "rank": 2560,
-      "male": 7287,
+      "male": 7286,
       "female": 497,
       "genderless": 0,
       "ungendered": 16,
-      "total": 7800
+      "total": 7799
     },
     "Ninjask": {
       "rank": 2561,
@@ -20520,11 +20520,11 @@
     },
     "Alakazam": {
       "rank": 2565,
-      "male": 5934,
+      "male": 5935,
       "female": 2035,
       "genderless": 1,
       "ungendered": 53,
-      "total": 8023
+      "total": 8024
     },
     "Dragonair": {
       "rank": 2566,
@@ -20544,11 +20544,11 @@
     },
     "ShinyWailmer": {
       "rank": 2568,
-      "male": 4128,
+      "male": 4127,
       "female": 4137,
       "genderless": 0,
       "ungendered": 0,
-      "total": 8265
+      "total": 8264
     },
     "DarkBlissey": {
       "rank": 2569,
@@ -20584,11 +20584,11 @@
     },
     "Salamence": {
       "rank": 2573,
-      "male": 4569,
+      "male": 4570,
       "female": 3878,
       "genderless": 0,
       "ungendered": 32,
-      "total": 8479
+      "total": 8480
     },
     "ShinySkitty": {
       "rank": 2574,
@@ -20608,27 +20608,27 @@
     },
     "Dewgong": {
       "rank": 2576,
-      "male": 7148,
+      "male": 7149,
       "female": 1436,
       "genderless": 0,
       "ungendered": 80,
-      "total": 8664
+      "total": 8665
     },
     "Meloetta": {
       "rank": 2577,
       "male": 0,
       "female": 0,
-      "genderless": 8696,
+      "genderless": 8697,
       "ungendered": 0,
-      "total": 8696
+      "total": 8697
     },
     "Slaking": {
       "rank": 2578,
       "male": 4011,
-      "female": 4704,
+      "female": 4703,
       "genderless": 0,
       "ungendered": 0,
-      "total": 8715
+      "total": 8714
     },
     "ShinyHootHoot": {
       "rank": 2579,
@@ -20640,11 +20640,11 @@
     },
     "Lillipup": {
       "rank": 2580,
-      "male": 4544,
-      "female": 4394,
+      "male": 4543,
+      "female": 4393,
       "genderless": 0,
       "ungendered": 0,
-      "total": 8938
+      "total": 8936
     },
     "ShinyMetagross": {
       "rank": 2581,
@@ -20672,11 +20672,11 @@
     },
     "Quilava": {
       "rank": 2584,
-      "male": 8004,
+      "male": 8005,
       "female": 1097,
       "genderless": 0,
       "ungendered": 92,
-      "total": 9193
+      "total": 9194
     },
     "Azurill": {
       "rank": 2585,
@@ -20704,19 +20704,19 @@
     },
     "Swablu": {
       "rank": 2588,
-      "male": 4545,
-      "female": 4322,
+      "male": 4547,
+      "female": 4325,
       "genderless": 0,
       "ungendered": 436,
-      "total": 9303
+      "total": 9308
     },
     "Tyranitar": {
       "rank": 2589,
-      "male": 3366,
+      "male": 3365,
       "female": 5832,
       "genderless": 1,
       "ungendered": 117,
-      "total": 9316
+      "total": 9315
     },
     "Flygon": {
       "rank": 2590,
@@ -20729,10 +20729,10 @@
     "Rhydon": {
       "rank": 2591,
       "male": 5083,
-      "female": 4489,
+      "female": 4488,
       "genderless": 0,
       "ungendered": 47,
-      "total": 9619
+      "total": 9618
     },
     "DarkPichu": {
       "rank": 2592,
@@ -20754,9 +20754,9 @@
       "rank": 2594,
       "male": 0,
       "female": 0,
-      "genderless": 9591,
+      "genderless": 9587,
       "ungendered": 113,
-      "total": 9704
+      "total": 9700
     },
     "Prinplup": {
       "rank": 2595,
@@ -20768,11 +20768,11 @@
     },
     "Pidove": {
       "rank": 2596,
-      "male": 4892,
-      "female": 4904,
+      "male": 4889,
+      "female": 4903,
       "genderless": 0,
       "ungendered": 0,
-      "total": 9796
+      "total": 9792
     },
     "Grotle": {
       "rank": 2597,
@@ -20801,10 +20801,10 @@
     "Dragonite": {
       "rank": 2600,
       "male": 5440,
-      "female": 4434,
+      "female": 4435,
       "genderless": 0,
       "ungendered": 215,
-      "total": 10089
+      "total": 10090
     },
     "DarkAbsol": {
       "rank": 2601,
@@ -20817,10 +20817,10 @@
     "Venipede": {
       "rank": 2602,
       "male": 5255,
-      "female": 4970,
+      "female": 4969,
       "genderless": 0,
       "ungendered": 0,
-      "total": 10225
+      "total": 10224
     },
     "Blaziken": {
       "rank": 2603,
@@ -20864,11 +20864,11 @@
     },
     "Cradily": {
       "rank": 2608,
-      "male": 9110,
+      "male": 9111,
       "female": 2090,
       "genderless": 0,
       "ungendered": 94,
-      "total": 11294
+      "total": 11295
     },
     "Infernape": {
       "rank": 2609,
@@ -20896,11 +20896,11 @@
     },
     "Garchomp": {
       "rank": 2612,
-      "male": 2395,
+      "male": 2394,
       "female": 8979,
       "genderless": 0,
       "ungendered": 0,
-      "total": 11374
+      "total": 11373
     },
     "Armaldo": {
       "rank": 2613,
@@ -20984,11 +20984,11 @@
     },
     "Luxio": {
       "rank": 2623,
-      "male": 5831,
+      "male": 5830,
       "female": 6431,
       "genderless": 0,
       "ungendered": 0,
-      "total": 12262
+      "total": 12261
     },
     "Celebi": {
       "rank": 2624,
@@ -21040,11 +21040,11 @@
     },
     "Durant": {
       "rank": 2630,
-      "male": 6874,
-      "female": 6940,
+      "male": 6871,
+      "female": 6938,
       "genderless": 0,
       "ungendered": 0,
-      "total": 13814
+      "total": 13809
     },
     "Snover": {
       "rank": 2631,
@@ -21096,11 +21096,11 @@
     },
     "Alomomola": {
       "rank": 2637,
-      "male": 7979,
-      "female": 7781,
+      "male": 7967,
+      "female": 7774,
       "genderless": 0,
       "ungendered": 0,
-      "total": 15760
+      "total": 15741
     },
     "Electivire": {
       "rank": 2638,
@@ -21121,10 +21121,10 @@
     "Vullaby": {
       "rank": 2640,
       "male": 0,
-      "female": 16582,
+      "female": 16577,
       "genderless": 0,
       "ungendered": 0,
-      "total": 16582
+      "total": 16577
     },
     "Nidoqueen": {
       "rank": 2641,
@@ -21160,11 +21160,11 @@
     },
     "Wartortle": {
       "rank": 2645,
-      "male": 15334,
+      "male": 15335,
       "female": 2203,
       "genderless": 0,
       "ungendered": 107,
-      "total": 17644
+      "total": 17645
     },
     "Chingling": {
       "rank": 2646,
@@ -21209,10 +21209,10 @@
     "Bouffalant": {
       "rank": 2651,
       "male": 9134,
-      "female": 9093,
+      "female": 9092,
       "genderless": 0,
       "ungendered": 0,
-      "total": 18227
+      "total": 18226
     },
     "Skarmory": {
       "rank": 2652,
@@ -21224,11 +21224,11 @@
     },
     "Basculin (Blue-Striped)": {
       "rank": 2653,
-      "male": 9324,
+      "male": 9319,
       "female": 9374,
       "genderless": 0,
       "ungendered": 0,
-      "total": 18698
+      "total": 18693
     },
     "DarkHeracross": {
       "rank": 2654,
@@ -21241,50 +21241,50 @@
     "Maractus": {
       "rank": 2655,
       "male": 9548,
-      "female": 9471,
+      "female": 9469,
       "genderless": 0,
       "ungendered": 0,
-      "total": 19019
+      "total": 19017
     },
     "Giratina (Altered)": {
       "rank": 2656,
       "male": 0,
       "female": 0,
-      "genderless": 19472,
+      "genderless": 19480,
       "ungendered": 0,
-      "total": 19472
+      "total": 19480
     },
     "Basculin (Red-Striped)": {
       "rank": 2657,
-      "male": 10075,
-      "female": 9695,
+      "male": 10072,
+      "female": 9694,
       "genderless": 0,
       "ungendered": 0,
-      "total": 19770
+      "total": 19766
+    },
+    "Wishiwashi": {
+      "rank": 2658,
+      "male": 9889,
+      "female": 9989,
+      "genderless": 0,
+      "ungendered": 0,
+      "total": 19878
     },
     "Happiny": {
-      "rank": 2658,
+      "rank": 2659,
       "male": 0,
       "female": 19943,
       "genderless": 2,
       "ungendered": 0,
       "total": 19945
     },
-    "Wishiwashi": {
-      "rank": 2659,
-      "male": 9924,
-      "female": 10038,
-      "genderless": 0,
-      "ungendered": 0,
-      "total": 19962
-    },
     "Nidoking": {
       "rank": 2660,
-      "male": 19982,
+      "male": 19983,
       "female": 0,
       "genderless": 0,
       "ungendered": 189,
-      "total": 20171
+      "total": 20172
     },
     "Jolteon": {
       "rank": 2661,
@@ -21305,10 +21305,10 @@
     "Minccino": {
       "rank": 2663,
       "male": 5111,
-      "female": 15446,
+      "female": 15444,
       "genderless": 0,
       "ungendered": 0,
-      "total": 20557
+      "total": 20555
     },
     "Riolu": {
       "rank": 2664,
@@ -21320,19 +21320,19 @@
     },
     "Patrat": {
       "rank": 2665,
-      "male": 10575,
-      "female": 10346,
+      "male": 10573,
+      "female": 10341,
       "genderless": 0,
       "ungendered": 0,
-      "total": 20921
+      "total": 20914
     },
     "Stunfisk": {
       "rank": 2666,
-      "male": 10601,
+      "male": 10600,
       "female": 10350,
       "genderless": 0,
       "ungendered": 0,
-      "total": 20951
+      "total": 20950
     },
     "Flareon": {
       "rank": 2667,
@@ -21344,35 +21344,35 @@
     },
     "Tirtouga": {
       "rank": 2668,
-      "male": 19442,
+      "male": 19441,
       "female": 2901,
       "genderless": 0,
       "ungendered": 0,
-      "total": 22343
+      "total": 22342
     },
     "Purrloin": {
       "rank": 2669,
-      "male": 11268,
-      "female": 11365,
+      "male": 11265,
+      "female": 11363,
       "genderless": 0,
       "ungendered": 0,
-      "total": 22633
+      "total": 22628
     },
     "Kricketot": {
       "rank": 2670,
-      "male": 11838,
+      "male": 11837,
       "female": 11781,
       "genderless": 0,
       "ungendered": 0,
-      "total": 23619
+      "total": 23618
     },
     "Beldum": {
       "rank": 2671,
       "male": 0,
       "female": 0,
-      "genderless": 25402,
+      "genderless": 25401,
       "ungendered": 150,
-      "total": 25552
+      "total": 25551
     },
     "Glaceon": {
       "rank": 2672,
@@ -21392,19 +21392,19 @@
     },
     "Budew": {
       "rank": 2674,
-      "male": 13712,
-      "female": 14651,
+      "male": 13711,
+      "female": 14650,
       "genderless": 0,
       "ungendered": 0,
-      "total": 28363
+      "total": 28361
     },
     "Surskit": {
       "rank": 2675,
       "male": 14091,
-      "female": 14332,
+      "female": 14331,
       "genderless": 0,
       "ungendered": 307,
-      "total": 28730
+      "total": 28729
     },
     "ShinyWurmple": {
       "rank": 2676,
@@ -21448,11 +21448,11 @@
     },
     "Zigzagoon": {
       "rank": 2681,
-      "male": 15025,
-      "female": 15122,
+      "male": 15021,
+      "female": 15119,
       "genderless": 0,
       "ungendered": 340,
-      "total": 30487
+      "total": 30480
     },
     "Unown?": {
       "rank": 2682,
@@ -21464,27 +21464,27 @@
     },
     "Sewaddle": {
       "rank": 2683,
-      "male": 15331,
-      "female": 15283,
+      "male": 15328,
+      "female": 15281,
       "genderless": 0,
       "ungendered": 0,
-      "total": 30614
+      "total": 30609
     },
     "Chikorita": {
       "rank": 2684,
-      "male": 26289,
+      "male": 26291,
       "female": 4124,
       "genderless": 1,
       "ungendered": 670,
-      "total": 31084
+      "total": 31086
     },
     "Regirock": {
       "rank": 2685,
       "male": 0,
       "female": 0,
-      "genderless": 31283,
+      "genderless": 31282,
       "ungendered": 0,
-      "total": 31283
+      "total": 31282
     },
     "Gible": {
       "rank": 2686,
@@ -21496,67 +21496,67 @@
     },
     "Bidoof": {
       "rank": 2687,
-      "male": 16048,
-      "female": 16261,
+      "male": 16045,
+      "female": 16259,
       "genderless": 0,
       "ungendered": 0,
-      "total": 32309
+      "total": 32304
     },
     "Drifloon": {
       "rank": 2688,
       "male": 16064,
-      "female": 16268,
+      "female": 16266,
       "genderless": 0,
       "ungendered": 0,
-      "total": 32332
+      "total": 32330
     },
     "Unown!": {
       "rank": 2689,
       "male": 0,
       "female": 0,
-      "genderless": 32636,
+      "genderless": 32635,
       "ungendered": 0,
-      "total": 32636
+      "total": 32635
     },
     "Chimecho": {
       "rank": 2690,
-      "male": 16228,
+      "male": 16225,
       "female": 16822,
       "genderless": 0,
       "ungendered": 200,
-      "total": 33250
+      "total": 33247
     },
     "Feebas": {
       "rank": 2691,
       "male": 16416,
-      "female": 17948,
+      "female": 17947,
       "genderless": 0,
       "ungendered": 101,
-      "total": 34465
+      "total": 34464
     },
     "Castform": {
       "rank": 2692,
       "male": 17451,
-      "female": 18576,
+      "female": 18574,
       "genderless": 0,
       "ungendered": 0,
-      "total": 36027
+      "total": 36025
     },
     "Hippopotas": {
       "rank": 2693,
-      "male": 17990,
-      "female": 18043,
+      "male": 17988,
+      "female": 18041,
       "genderless": 0,
       "ungendered": 0,
-      "total": 36033
+      "total": 36029
     },
     "Meditite": {
       "rank": 2694,
       "male": 18358,
-      "female": 17478,
+      "female": 17476,
       "genderless": 0,
       "ungendered": 338,
-      "total": 36174
+      "total": 36172
     },
     "Mudkip": {
       "rank": 2695,
@@ -21568,19 +21568,19 @@
     },
     "Seedot": {
       "rank": 2696,
-      "male": 18415,
-      "female": 18583,
+      "male": 18412,
+      "female": 18582,
       "genderless": 0,
       "ungendered": 63,
-      "total": 37061
+      "total": 37057
     },
     "Lunatone": {
       "rank": 2697,
       "male": 0,
       "female": 0,
-      "genderless": 37760,
+      "genderless": 37758,
       "ungendered": 0,
-      "total": 37760
+      "total": 37758
     },
     "DarkMudkip": {
       "rank": 2698,
@@ -21601,10 +21601,10 @@
     "Wailmer": {
       "rank": 2700,
       "male": 19306,
-      "female": 18858,
+      "female": 18859,
       "genderless": 0,
       "ungendered": 257,
-      "total": 38421
+      "total": 38422
     },
     "ShinyMudkip": {
       "rank": 2701,
@@ -21626,25 +21626,25 @@
       "rank": 2703,
       "male": 1,
       "female": 0,
-      "genderless": 38955,
+      "genderless": 38957,
       "ungendered": 0,
-      "total": 38956
+      "total": 38958
     },
     "Buneary": {
       "rank": 2704,
-      "male": 19351,
-      "female": 19621,
+      "male": 19349,
+      "female": 19620,
       "genderless": 0,
       "ungendered": 0,
-      "total": 38972
+      "total": 38969
     },
     "Slakoth": {
       "rank": 2705,
-      "male": 20224,
-      "female": 19828,
+      "male": 20223,
+      "female": 19827,
       "genderless": 0,
       "ungendered": 2,
-      "total": 40054
+      "total": 40052
     },
     "ShinyTorchic": {
       "rank": 2706,
@@ -21657,10 +21657,10 @@
     "Skitty": {
       "rank": 2707,
       "male": 9225,
-      "female": 30747,
+      "female": 30745,
       "genderless": 0,
       "ungendered": 341,
-      "total": 40313
+      "total": 40311
     },
     "Torchic": {
       "rank": 2708,
@@ -21673,10 +21673,10 @@
     "ShinyAzurill": {
       "rank": 2709,
       "male": 17055,
-      "female": 23874,
+      "female": 23873,
       "genderless": 0,
       "ungendered": 392,
-      "total": 41321
+      "total": 41320
     },
     "ShinyTreecko": {
       "rank": 2710,
@@ -21704,19 +21704,19 @@
     },
     "Combee": {
       "rank": 2713,
-      "male": 37080,
+      "male": 37076,
       "female": 5532,
       "genderless": 0,
       "ungendered": 0,
-      "total": 42612
+      "total": 42608
     },
     "Stunky": {
       "rank": 2714,
-      "male": 25150,
-      "female": 21955,
+      "male": 25147,
+      "female": 21951,
       "genderless": 0,
       "ungendered": 15,
-      "total": 47120
+      "total": 47113
     },
     "ShinyTorkoal": {
       "rank": 2715,
@@ -21744,19 +21744,19 @@
     },
     "Taillow": {
       "rank": 2718,
-      "male": 24375,
-      "female": 23969,
+      "male": 24371,
+      "female": 23968,
       "genderless": 0,
       "ungendered": 304,
-      "total": 48648
+      "total": 48643
     },
     "Tropius": {
       "rank": 2719,
-      "male": 24566,
+      "male": 24567,
       "female": 26117,
       "genderless": 0,
       "ungendered": 150,
-      "total": 50833
+      "total": 50834
     },
     "Umbreon": {
       "rank": 2720,
@@ -21785,42 +21785,42 @@
     "Dratini": {
       "rank": 2723,
       "male": 25295,
-      "female": 28015,
+      "female": 28014,
       "genderless": 1,
       "ungendered": 497,
-      "total": 53808
+      "total": 53807
     },
     "Shieldon": {
       "rank": 2724,
-      "male": 49370,
-      "female": 7005,
+      "male": 49377,
+      "female": 7006,
       "genderless": 0,
       "ungendered": 0,
-      "total": 56375
+      "total": 56383
     },
     "Spiritomb": {
       "rank": 2725,
-      "male": 28437,
-      "female": 28043,
+      "male": 28436,
+      "female": 28040,
       "genderless": 0,
       "ungendered": 0,
-      "total": 56480
+      "total": 56476
     },
     "Relicanth": {
       "rank": 2726,
-      "male": 49652,
-      "female": 6725,
+      "male": 49650,
+      "female": 6723,
       "genderless": 0,
       "ungendered": 199,
-      "total": 56576
+      "total": 56572
     },
     "Spinda": {
       "rank": 2727,
-      "male": 28140,
-      "female": 28292,
+      "male": 28133,
+      "female": 28289,
       "genderless": 0,
       "ungendered": 190,
-      "total": 56622
+      "total": 56612
     },
     "Espeon": {
       "rank": 2728,
@@ -21842,9 +21842,9 @@
       "rank": 2730,
       "male": 0,
       "female": 0,
-      "genderless": 60122,
+      "genderless": 60116,
       "ungendered": 198,
-      "total": 60320
+      "total": 60314
     },
     "Bagon": {
       "rank": 2731,
@@ -21856,11 +21856,11 @@
     },
     "Corphish": {
       "rank": 2732,
-      "male": 30718,
-      "female": 30323,
+      "male": 30717,
+      "female": 30321,
       "genderless": 0,
       "ungendered": 277,
-      "total": 61318
+      "total": 61315
     },
     "Aron": {
       "rank": 2733,
@@ -21873,34 +21873,34 @@
     "Shinx": {
       "rank": 2734,
       "male": 31839,
-      "female": 33136,
+      "female": 33135,
       "genderless": 0,
       "ungendered": 0,
-      "total": 64975
+      "total": 64974
     },
     "Abra": {
       "rank": 2735,
-      "male": 48474,
+      "male": 48471,
       "female": 16590,
       "genderless": 0,
       "ungendered": 187,
-      "total": 65251
+      "total": 65248
     },
     "Wurmple": {
       "rank": 2736,
-      "male": 32359,
-      "female": 33991,
+      "male": 32353,
+      "female": 33990,
       "genderless": 0,
       "ungendered": 39,
-      "total": 66389
+      "total": 66382
     },
     "Ralts": {
       "rank": 2737,
-      "male": 33071,
-      "female": 33587,
+      "male": 33068,
+      "female": 33585,
       "genderless": 0,
       "ungendered": 270,
-      "total": 66928
+      "total": 66923
     },
     "UnownA": {
       "rank": 2738,
@@ -21920,11 +21920,11 @@
     },
     "Doduo": {
       "rank": 2740,
-      "male": 34686,
-      "female": 34509,
+      "male": 34682,
+      "female": 34507,
       "genderless": 0,
       "ungendered": 84,
-      "total": 69279
+      "total": 69273
     },
     "UnownD": {
       "rank": 2741,
@@ -21936,19 +21936,19 @@
     },
     "Geodude": {
       "rank": 2742,
-      "male": 37556,
+      "male": 37554,
       "female": 34092,
       "genderless": 0,
       "ungendered": 87,
-      "total": 71735
+      "total": 71733
     },
     "Luvdisc": {
       "rank": 2743,
-      "male": 18636,
-      "female": 56382,
+      "male": 18624,
+      "female": 56354,
       "genderless": 0,
       "ungendered": 78,
-      "total": 75096
+      "total": 75056
     },
     "Cleffa": {
       "rank": 2744,
@@ -21968,11 +21968,11 @@
     },
     "Clamperl": {
       "rank": 2746,
-      "male": 39017,
-      "female": 40570,
+      "male": 39015,
+      "female": 40565,
       "genderless": 0,
       "ungendered": 239,
-      "total": 79826
+      "total": 79819
     },
     "UnownU": {
       "rank": 2747,
@@ -21992,11 +21992,11 @@
     },
     "Finneon": {
       "rank": 2749,
-      "male": 40265,
-      "female": 42154,
+      "male": 40264,
+      "female": 42153,
       "genderless": 0,
       "ungendered": 0,
-      "total": 82419
+      "total": 82417
     },
     "Jigglypuff": {
       "rank": 2750,
@@ -22050,9 +22050,9 @@
       "rank": 2756,
       "male": 0,
       "female": 0,
-      "genderless": 88255,
+      "genderless": 88254,
       "ungendered": 738,
-      "total": 88993
+      "total": 88992
     },
     "Igglybuff": {
       "rank": 2757,
@@ -22064,27 +22064,27 @@
     },
     "Seviper": {
       "rank": 2758,
-      "male": 48895,
-      "female": 42570,
+      "male": 48893,
+      "female": 42568,
       "genderless": 1,
       "ungendered": 210,
-      "total": 91676
+      "total": 91672
     },
     "Cranidos": {
       "rank": 2759,
-      "male": 80415,
-      "female": 11946,
+      "male": 80418,
+      "female": 11947,
       "genderless": 0,
       "ungendered": 0,
-      "total": 92361
+      "total": 92365
     },
     "Ledian": {
       "rank": 2760,
       "male": 40209,
-      "female": 53058,
+      "female": 53059,
       "genderless": 0,
       "ungendered": 264,
-      "total": 93531
+      "total": 93532
     },
     "Dugtrio": {
       "rank": 2761,
@@ -22096,8 +22096,8 @@
     },
     "Skorupi": {
       "rank": 2762,
-      "male": 51381,
-      "female": 44184,
+      "male": 51380,
+      "female": 44185,
       "genderless": 0,
       "ungendered": 0,
       "total": 95565
@@ -22113,18 +22113,18 @@
     "Ledyba": {
       "rank": 2764,
       "male": 52866,
-      "female": 47352,
+      "female": 47351,
       "genderless": 2,
       "ungendered": 367,
-      "total": 100587
+      "total": 100586
     },
     "Larvitar": {
       "rank": 2765,
-      "male": 49976,
+      "male": 49977,
       "female": 50453,
       "genderless": 0,
       "ungendered": 270,
-      "total": 100699
+      "total": 100700
     },
     "Fearow": {
       "rank": 2766,
@@ -22136,11 +22136,11 @@
     },
     "Exeggutor": {
       "rank": 2767,
-      "male": 44538,
+      "male": 44539,
       "female": 56718,
       "genderless": 0,
       "ungendered": 270,
-      "total": 101526
+      "total": 101527
     },
     "UnownG": {
       "rank": 2768,
@@ -22162,17 +22162,17 @@
       "rank": 2770,
       "male": 0,
       "female": 0,
-      "genderless": 104930,
+      "genderless": 104929,
       "ungendered": 438,
-      "total": 105368
+      "total": 105367
     },
     "Glameow": {
       "rank": 2771,
       "male": 37159,
-      "female": 69224,
+      "female": 69223,
       "genderless": 0,
       "ungendered": 22,
-      "total": 106405
+      "total": 106404
     },
     "UnownS": {
       "rank": 2772,
@@ -22184,16 +22184,16 @@
     },
     "Furret": {
       "rank": 2773,
-      "male": 57621,
+      "male": 57622,
       "female": 48845,
       "genderless": 0,
       "ungendered": 262,
-      "total": 106728
+      "total": 106729
     },
     "Bellsprout": {
       "rank": 2774,
-      "male": 51262,
-      "female": 55252,
+      "male": 51260,
+      "female": 55254,
       "genderless": 0,
       "ungendered": 224,
       "total": 106738
@@ -22208,11 +22208,11 @@
     },
     "Caterpie": {
       "rank": 2776,
-      "male": 50163,
-      "female": 56819,
+      "male": 50166,
+      "female": 56821,
       "genderless": 1,
       "ungendered": 244,
-      "total": 107227
+      "total": 107232
     },
     "UnownM": {
       "rank": 2777,
@@ -22226,9 +22226,9 @@
       "rank": 2778,
       "male": 0,
       "female": 0,
-      "genderless": 107679,
+      "genderless": 107678,
       "ungendered": 1121,
-      "total": 108800
+      "total": 108799
     },
     "Weepinbell": {
       "rank": 2779,
@@ -22240,19 +22240,19 @@
     },
     "Diglett": {
       "rank": 2780,
-      "male": 53873,
-      "female": 55996,
+      "male": 53870,
+      "female": 55995,
       "genderless": 1,
       "ungendered": 280,
-      "total": 110150
+      "total": 110146
     },
     "Natu": {
       "rank": 2781,
-      "male": 59443,
+      "male": 59441,
       "female": 50791,
       "genderless": 0,
       "ungendered": 345,
-      "total": 110579
+      "total": 110577
     },
     "UnownL": {
       "rank": 2782,
@@ -22266,9 +22266,9 @@
       "rank": 2783,
       "male": 0,
       "female": 0,
-      "genderless": 113425,
+      "genderless": 113424,
       "ungendered": 512,
-      "total": 113937
+      "total": 113936
     },
     "Numel": {
       "rank": 2784,
@@ -22288,11 +22288,11 @@
     },
     "Golbat": {
       "rank": 2786,
-      "male": 67186,
-      "female": 48311,
+      "male": 67183,
+      "female": 48310,
       "genderless": 0,
       "ungendered": 254,
-      "total": 115751
+      "total": 115747
     },
     "UnownT": {
       "rank": 2787,
@@ -22312,19 +22312,19 @@
     },
     "Tangela": {
       "rank": 2789,
-      "male": 69761,
+      "male": 69760,
       "female": 48678,
       "genderless": 0,
       "ungendered": 257,
-      "total": 118696
+      "total": 118695
     },
     "HootHoot": {
       "rank": 2790,
-      "male": 67382,
-      "female": 52719,
+      "male": 67380,
+      "female": 52717,
       "genderless": 1,
       "ungendered": 307,
-      "total": 120409
+      "total": 120405
     },
     "UnownP": {
       "rank": 2791,
@@ -22336,11 +22336,11 @@
     },
     "Weedle": {
       "rank": 2792,
-      "male": 61934,
+      "male": 61930,
       "female": 60172,
       "genderless": 0,
       "ungendered": 305,
-      "total": 122411
+      "total": 122407
     },
     "Nidorina": {
       "rank": 2793,
@@ -22360,11 +22360,11 @@
     },
     "Nidorino": {
       "rank": 2795,
-      "male": 124934,
+      "male": 124935,
       "female": 0,
       "genderless": 0,
       "ungendered": 270,
-      "total": 125204
+      "total": 125205
     },
     "Dunsparce": {
       "rank": 2796,
@@ -22377,26 +22377,26 @@
     "Smoochum": {
       "rank": 2797,
       "male": 0,
-      "female": 126077,
+      "female": 126076,
       "genderless": 3,
       "ungendered": 383,
-      "total": 126463
+      "total": 126462
     },
     "Clefairy": {
       "rank": 2798,
-      "male": 32546,
-      "female": 93781,
+      "male": 32543,
+      "female": 93771,
       "genderless": 1,
       "ungendered": 256,
-      "total": 126584
+      "total": 126571
     },
     "Nincada": {
       "rank": 2799,
-      "male": 62398,
-      "female": 64914,
+      "male": 62397,
+      "female": 64913,
       "genderless": 0,
       "ungendered": 321,
-      "total": 127633
+      "total": 127631
     },
     "Ariados": {
       "rank": 2800,
@@ -22408,11 +22408,11 @@
     },
     "Smeargle": {
       "rank": 2801,
-      "male": 67388,
-      "female": 61388,
+      "male": 67387,
+      "female": 61384,
       "genderless": 0,
       "ungendered": 439,
-      "total": 129215
+      "total": 129210
     },
     "UnownZ": {
       "rank": 2802,
@@ -22425,10 +22425,10 @@
     "Exeggcute": {
       "rank": 2803,
       "male": 61011,
-      "female": 70285,
+      "female": 70280,
       "genderless": 0,
       "ungendered": 228,
-      "total": 131524
+      "total": 131519
     },
     "Ekans": {
       "rank": 2804,
@@ -22440,43 +22440,43 @@
     },
     "Pikachu": {
       "rank": 2805,
-      "male": 70940,
-      "female": 61569,
+      "male": 70936,
+      "female": 61561,
       "genderless": 3,
       "ungendered": 530,
-      "total": 133042
+      "total": 133030
     },
     "Krabby": {
       "rank": 2806,
       "male": 61465,
       "female": 72501,
       "genderless": 0,
-      "ungendered": 247,
-      "total": 134213
+      "ungendered": 246,
+      "total": 134212
     },
     "Zubat": {
       "rank": 2807,
-      "male": 66507,
-      "female": 67608,
+      "male": 66504,
+      "female": 67605,
       "genderless": 1,
       "ungendered": 416,
-      "total": 134532
+      "total": 134526
+    },
+    "Venonat": {
+      "rank": 2808,
+      "male": 67176,
+      "female": 68879,
+      "genderless": 0,
+      "ungendered": 290,
+      "total": 136345
     },
     "Sudowoodo": {
-      "rank": 2808,
+      "rank": 2809,
       "male": 74162,
       "female": 61628,
       "genderless": 0,
       "ungendered": 557,
       "total": 136347
-    },
-    "Venonat": {
-      "rank": 2809,
-      "male": 67179,
-      "female": 68881,
-      "genderless": 0,
-      "ungendered": 290,
-      "total": 136350
     },
     "Qwilfish": {
       "rank": 2810,
@@ -22488,35 +22488,35 @@
     },
     "Minun": {
       "rank": 2811,
-      "male": 65952,
+      "male": 65949,
       "female": 71056,
       "genderless": 0,
       "ungendered": 427,
-      "total": 137435
+      "total": 137432
     },
     "Mankey": {
       "rank": 2812,
-      "male": 68095,
-      "female": 69223,
+      "male": 68094,
+      "female": 69220,
       "genderless": 0,
       "ungendered": 337,
-      "total": 137655
+      "total": 137651
     },
     "Lotad": {
       "rank": 2813,
       "male": 63630,
-      "female": 74462,
+      "female": 74461,
       "genderless": 1,
       "ungendered": 210,
-      "total": 138303
+      "total": 138302
     },
     "Sentret": {
       "rank": 2814,
       "male": 57593,
-      "female": 80867,
+      "female": 80864,
       "genderless": 0,
       "ungendered": 290,
-      "total": 138750
+      "total": 138747
     },
     "Haunter": {
       "rank": 2815,
@@ -22528,11 +22528,11 @@
     },
     "Sandshrew": {
       "rank": 2816,
-      "male": 69872,
+      "male": 69875,
       "female": 70718,
       "genderless": 0,
       "ungendered": 408,
-      "total": 140998
+      "total": 141001
     },
     "Elekid": {
       "rank": 2817,
@@ -22554,17 +22554,17 @@
       "rank": 2819,
       "male": 0,
       "female": 0,
-      "genderless": 141292,
+      "genderless": 141289,
       "ungendered": 412,
-      "total": 141704
+      "total": 141701
     },
     "Gulpin": {
       "rank": 2820,
-      "male": 74353,
-      "female": 67950,
+      "male": 74352,
+      "female": 67949,
       "genderless": 0,
       "ungendered": 319,
-      "total": 142622
+      "total": 142620
     },
     "Pidgeotto": {
       "rank": 2821,
@@ -22576,43 +22576,43 @@
     },
     "Drowzee": {
       "rank": 2822,
-      "male": 74670,
-      "female": 68442,
+      "male": 74666,
+      "female": 68438,
       "genderless": 1,
       "ungendered": 297,
-      "total": 143410
+      "total": 143402
+    },
+    "Girafarig": {
+      "rank": 2823,
+      "male": 75527,
+      "female": 67667,
+      "genderless": 1,
+      "ungendered": 380,
+      "total": 143575
     },
     "UnownO": {
-      "rank": 2823,
+      "rank": 2824,
       "male": 0,
       "female": 0,
       "genderless": 143145,
       "ungendered": 432,
       "total": 143577
     },
-    "Girafarig": {
-      "rank": 2824,
-      "male": 75529,
-      "female": 67668,
-      "genderless": 1,
-      "ungendered": 380,
-      "total": 143578
-    },
     "Barboach": {
       "rank": 2825,
-      "male": 74061,
-      "female": 69847,
+      "male": 74060,
+      "female": 69844,
       "genderless": 0,
       "ungendered": 0,
-      "total": 143908
+      "total": 143904
     },
     "Spoink": {
       "rank": 2826,
-      "male": 71027,
-      "female": 73200,
+      "male": 71023,
+      "female": 73197,
       "genderless": 0,
       "ungendered": 384,
-      "total": 144611
+      "total": 144604
     },
     "Plusle": {
       "rank": 2827,
@@ -22625,18 +22625,18 @@
     "Miltank": {
       "rank": 2828,
       "male": 0,
-      "female": 145333,
+      "female": 145329,
       "genderless": 3,
       "ungendered": 37,
-      "total": 145373
+      "total": 145369
     },
     "Volbeat": {
       "rank": 2829,
-      "male": 145481,
+      "male": 145477,
       "female": 0,
       "genderless": 0,
       "ungendered": 0,
-      "total": 145481
+      "total": 145477
     },
     "ShinySnorlax": {
       "rank": 2830,
@@ -22656,51 +22656,51 @@
     },
     "Spearow": {
       "rank": 2832,
-      "male": 74128,
-      "female": 71562,
+      "male": 74124,
+      "female": 71561,
       "genderless": 0,
       "ungendered": 387,
-      "total": 146077
+      "total": 146072
     },
     "Phanpy": {
       "rank": 2833,
-      "male": 65831,
-      "female": 79967,
+      "male": 65829,
+      "female": 79965,
       "genderless": 0,
       "ungendered": 461,
-      "total": 146259
+      "total": 146255
     },
     "Farfetchd": {
       "rank": 2834,
-      "male": 71238,
-      "female": 74736,
+      "male": 71234,
+      "female": 74734,
       "genderless": 0,
       "ungendered": 313,
-      "total": 146287
+      "total": 146281
     },
     "Nosepass": {
-      "rank": 2834,
-      "male": 84228,
-      "female": 61633,
+      "rank": 2835,
+      "male": 84225,
+      "female": 61632,
       "genderless": 0,
       "ungendered": 426,
-      "total": 146287
+      "total": 146283
     },
     "NidoranF": {
       "rank": 2836,
       "male": 0,
-      "female": 145952,
+      "female": 145951,
       "genderless": 2,
       "ungendered": 372,
-      "total": 146326
+      "total": 146325
     },
     "Machop": {
       "rank": 2837,
-      "male": 107343,
-      "female": 38772,
+      "male": 107341,
+      "female": 38773,
       "genderless": 0,
       "ungendered": 268,
-      "total": 146383
+      "total": 146382
     },
     "UnownR": {
       "rank": 2838,
@@ -22712,51 +22712,51 @@
     },
     "MrMime": {
       "rank": 2839,
-      "male": 74277,
-      "female": 72152,
+      "male": 74276,
+      "female": 72149,
       "genderless": 0,
       "ungendered": 313,
-      "total": 146742
+      "total": 146738
     },
     "Misdreavus": {
       "rank": 2840,
-      "male": 76713,
-      "female": 69993,
+      "male": 76711,
+      "female": 69991,
       "genderless": 1,
       "ungendered": 450,
-      "total": 147157
+      "total": 147153
     },
     "Murkrow": {
       "rank": 2841,
-      "male": 73115,
+      "male": 73114,
       "female": 74597,
       "genderless": 1,
       "ungendered": 279,
-      "total": 147992
+      "total": 147991
     },
     "Rattata": {
       "rank": 2842,
-      "male": 69207,
-      "female": 79275,
+      "male": 69204,
+      "female": 79271,
       "genderless": 0,
       "ungendered": 335,
-      "total": 148817
+      "total": 148810
     },
     "Spinarak": {
       "rank": 2843,
-      "male": 78463,
-      "female": 70045,
+      "male": 78460,
+      "female": 70044,
       "genderless": 0,
       "ungendered": 346,
-      "total": 148854
+      "total": 148850
     },
     "Lickitung": {
       "rank": 2844,
       "male": 75876,
-      "female": 73696,
+      "female": 73695,
       "genderless": 0,
       "ungendered": 307,
-      "total": 149879
+      "total": 149878
     },
     "Togetic": {
       "rank": 2845,
@@ -22776,51 +22776,51 @@
     },
     "NidoranM": {
       "rank": 2847,
-      "male": 149838,
+      "male": 149837,
       "female": 0,
       "genderless": 1,
       "ungendered": 394,
-      "total": 150233
+      "total": 150232
     },
     "Snubbull": {
       "rank": 2848,
-      "male": 41602,
-      "female": 109639,
+      "male": 41601,
+      "female": 109635,
       "genderless": 0,
       "ungendered": 336,
-      "total": 151577
+      "total": 151572
     },
     "Paras": {
       "rank": 2849,
-      "male": 79617,
-      "female": 71711,
+      "male": 79616,
+      "female": 71707,
       "genderless": 0,
       "ungendered": 309,
-      "total": 151637
+      "total": 151632
     },
     "Wooper": {
       "rank": 2850,
-      "male": 72812,
+      "male": 72816,
       "female": 78557,
       "genderless": 1,
       "ungendered": 489,
-      "total": 151859
+      "total": 151863
     },
     "Meowth": {
       "rank": 2851,
-      "male": 91304,
-      "female": 61177,
+      "male": 91301,
+      "female": 61173,
       "genderless": 0,
       "ungendered": 371,
-      "total": 152852
+      "total": 152845
     },
     "Seel": {
       "rank": 2852,
-      "male": 122473,
-      "female": 30389,
+      "male": 122472,
+      "female": 30388,
       "genderless": 0,
       "ungendered": 359,
-      "total": 153221
+      "total": 153219
     },
     "Hariyama": {
       "rank": 2853,
@@ -22832,43 +22832,43 @@
     },
     "Togepi": {
       "rank": 2854,
-      "male": 112197,
-      "female": 41407,
+      "male": 112195,
+      "female": 41405,
       "genderless": 1,
       "ungendered": 501,
-      "total": 154106
+      "total": 154102
     },
     "Tyrogue": {
       "rank": 2855,
-      "male": 154404,
+      "male": 154406,
       "female": 0,
       "genderless": 2,
       "ungendered": 520,
-      "total": 154926
+      "total": 154928
     },
     "Poochyena": {
       "rank": 2856,
-      "male": 87637,
-      "female": 69576,
+      "male": 87634,
+      "female": 69573,
       "genderless": 0,
       "ungendered": 36,
-      "total": 157249
+      "total": 157243
     },
     "Voltorb": {
       "rank": 2857,
       "male": 0,
       "female": 2,
-      "genderless": 157133,
+      "genderless": 157129,
       "ungendered": 377,
-      "total": 157512
+      "total": 157508
     },
     "Gastly": {
       "rank": 2858,
       "male": 70716,
-      "female": 86766,
+      "female": 86765,
       "genderless": 0,
       "ungendered": 311,
-      "total": 157793
+      "total": 157792
     },
     "Raticate": {
       "rank": 2859,
@@ -22880,35 +22880,35 @@
     },
     "Pinsir": {
       "rank": 2860,
-      "male": 86573,
-      "female": 73074,
+      "male": 86576,
+      "female": 73075,
       "genderless": 0,
       "ungendered": 439,
-      "total": 160086
+      "total": 160090
     },
     "Shuppet": {
       "rank": 2861,
       "male": 81056,
-      "female": 79860,
+      "female": 79861,
       "genderless": 0,
       "ungendered": 6,
-      "total": 160922
+      "total": 160923
     },
     "Swinub": {
       "rank": 2862,
       "male": 83806,
-      "female": 77197,
+      "female": 77196,
       "genderless": 0,
       "ungendered": 323,
-      "total": 161326
+      "total": 161325
     },
     "Goldeen": {
       "rank": 2863,
-      "male": 76610,
-      "female": 85134,
+      "male": 76606,
+      "female": 85135,
       "genderless": 1,
       "ungendered": 261,
-      "total": 162006
+      "total": 162003
     },
     "Electabuzz": {
       "rank": 2864,
@@ -22928,51 +22928,51 @@
     },
     "Gligar": {
       "rank": 2866,
-      "male": 86178,
-      "female": 76956,
+      "male": 86175,
+      "female": 76953,
       "genderless": 0,
       "ungendered": 394,
-      "total": 163528
+      "total": 163522
     },
     "Kecleon": {
       "rank": 2867,
-      "male": 77804,
-      "female": 85589,
+      "male": 77798,
+      "female": 85586,
       "genderless": 0,
       "ungendered": 527,
-      "total": 163920
+      "total": 163911
     },
     "Magnemite": {
       "rank": 2868,
       "male": 0,
       "female": 0,
-      "genderless": 165251,
+      "genderless": 165242,
       "ungendered": 255,
-      "total": 165506
+      "total": 165497
     },
     "Slowpoke": {
       "rank": 2869,
       "male": 89759,
-      "female": 77455,
+      "female": 77454,
       "genderless": 0,
       "ungendered": 335,
-      "total": 167549
+      "total": 167548
     },
     "Whismur": {
       "rank": 2870,
-      "male": 88978,
-      "female": 78691,
+      "male": 88979,
+      "female": 78692,
       "genderless": 0,
       "ungendered": 202,
-      "total": 167871
+      "total": 167873
     },
     "Omanyte": {
       "rank": 2871,
-      "male": 140874,
-      "female": 26810,
+      "male": 140871,
+      "female": 26809,
       "genderless": 0,
       "ungendered": 543,
-      "total": 168227
+      "total": 168223
     },
     "Pichu": {
       "rank": 2872,
@@ -22984,27 +22984,27 @@
     },
     "Aipom": {
       "rank": 2873,
-      "male": 82216,
-      "female": 86679,
+      "male": 82215,
+      "female": 86676,
       "genderless": 1,
       "ungendered": 334,
-      "total": 169230
+      "total": 169226
     },
     "Psyduck": {
       "rank": 2874,
-      "male": 79734,
-      "female": 90060,
+      "male": 79732,
+      "female": 90057,
       "genderless": 0,
       "ungendered": 287,
-      "total": 170081
+      "total": 170076
     },
     "Pineco": {
       "rank": 2875,
-      "male": 87273,
+      "male": 87272,
       "female": 84289,
       "genderless": 0,
       "ungendered": 478,
-      "total": 172040
+      "total": 172039
     },
     "Delibird": {
       "rank": 2876,
@@ -23016,19 +23016,19 @@
     },
     "Chinchou": {
       "rank": 2877,
-      "male": 76525,
-      "female": 96209,
+      "male": 76524,
+      "female": 96208,
       "genderless": 0,
       "ungendered": 301,
-      "total": 173035
+      "total": 173033
     },
     "Pidgey": {
       "rank": 2878,
-      "male": 91435,
-      "female": 81767,
+      "male": 91431,
+      "female": 81764,
       "genderless": 0,
       "ungendered": 308,
-      "total": 173510
+      "total": 173503
     },
     "Rapidash": {
       "rank": 2879,
@@ -23041,10 +23041,10 @@
     "Jynx": {
       "rank": 2880,
       "male": 0,
-      "female": 174537,
+      "female": 174530,
       "genderless": 0,
       "ungendered": 335,
-      "total": 174872
+      "total": 174865
     },
     "Carvanha": {
       "rank": 2881,
@@ -23056,11 +23056,11 @@
     },
     "Remoraid": {
       "rank": 2882,
-      "male": 96828,
-      "female": 79185,
+      "male": 96824,
+      "female": 79181,
       "genderless": 0,
       "ungendered": 359,
-      "total": 176372
+      "total": 176364
     },
     "Absol": {
       "rank": 2883,
@@ -23073,170 +23073,170 @@
     "Mantine": {
       "rank": 2884,
       "male": 92302,
-      "female": 83918,
+      "female": 83916,
       "genderless": 0,
       "ungendered": 343,
-      "total": 176563
+      "total": 176561
     },
     "Kabuto": {
       "rank": 2885,
-      "male": 148213,
-      "female": 28823,
+      "male": 148218,
+      "female": 28825,
       "genderless": 0,
       "ungendered": 374,
-      "total": 177410
+      "total": 177417
     },
     "Tentacool": {
       "rank": 2886,
-      "male": 96596,
-      "female": 84524,
+      "male": 96595,
+      "female": 84521,
       "genderless": 0,
       "ungendered": 385,
-      "total": 181505
+      "total": 181501
     },
     "Tauros": {
       "rank": 2887,
-      "male": 167102,
+      "male": 167098,
       "female": 16144,
       "genderless": 0,
       "ungendered": 34,
-      "total": 183280
+      "total": 183276
     },
     "Poliwag": {
       "rank": 2888,
-      "male": 109076,
-      "female": 76290,
+      "male": 109074,
+      "female": 76287,
       "genderless": 0,
       "ungendered": 423,
-      "total": 185789
+      "total": 185784
     },
     "Yanma": {
       "rank": 2889,
-      "male": 96036,
-      "female": 89629,
+      "male": 96035,
+      "female": 89628,
       "genderless": 0,
       "ungendered": 414,
-      "total": 186079
+      "total": 186077
     },
     "Hoppip": {
       "rank": 2890,
       "male": 90677,
-      "female": 95169,
+      "female": 95168,
       "genderless": 0,
       "ungendered": 402,
-      "total": 186248
+      "total": 186247
     },
     "Corsola": {
       "rank": 2891,
       "male": 46547,
-      "female": 139372,
+      "female": 139371,
       "genderless": 0,
       "ungendered": 345,
-      "total": 186264
+      "total": 186263
     },
     "Stantler": {
       "rank": 2892,
-      "male": 89777,
-      "female": 98682,
+      "male": 89774,
+      "female": 98679,
       "genderless": 0,
       "ungendered": 403,
-      "total": 188862
+      "total": 188856
     },
     "Chansey": {
       "rank": 2893,
       "male": 0,
-      "female": 189463,
+      "female": 189460,
       "genderless": 3,
       "ungendered": 0,
-      "total": 189466
+      "total": 189463
     },
     "Duskull": {
       "rank": 2894,
-      "male": 105374,
-      "female": 84396,
+      "male": 105369,
+      "female": 84390,
       "genderless": 0,
       "ungendered": 10,
-      "total": 189780
+      "total": 189769
     },
     "Wobbuffet": {
       "rank": 2895,
-      "male": 94138,
-      "female": 95990,
+      "male": 94140,
+      "female": 95991,
       "genderless": 1,
       "ungendered": 634,
-      "total": 190763
+      "total": 190766
     },
     "Horsea": {
       "rank": 2896,
       "male": 109671,
-      "female": 81440,
+      "female": 81439,
       "genderless": 0,
       "ungendered": 368,
-      "total": 191479
+      "total": 191478
     },
     "Snorunt": {
       "rank": 2897,
-      "male": 84302,
-      "female": 109913,
+      "male": 84301,
+      "female": 109911,
       "genderless": 1,
       "ungendered": 387,
-      "total": 194603
+      "total": 194600
     },
     "Mareep": {
       "rank": 2898,
-      "male": 88317,
-      "female": 106914,
+      "male": 88316,
+      "female": 106912,
       "genderless": 0,
       "ungendered": 328,
-      "total": 195559
+      "total": 195556
     },
     "Trapinch": {
       "rank": 2899,
-      "male": 101774,
-      "female": 94224,
+      "male": 101775,
+      "female": 94225,
       "genderless": 0,
       "ungendered": 287,
-      "total": 196285
+      "total": 196287
     },
     "Sunkern": {
       "rank": 2900,
-      "male": 93567,
-      "female": 102949,
+      "male": 93538,
+      "female": 102922,
       "genderless": 0,
       "ungendered": 257,
-      "total": 196773
+      "total": 196717
     },
     "Teddiursa": {
       "rank": 2901,
       "male": 108015,
-      "female": 88880,
+      "female": 88879,
       "genderless": 2,
       "ungendered": 540,
-      "total": 197437
+      "total": 197436
     },
     "Onix": {
       "rank": 2902,
       "male": 92352,
-      "female": 104785,
+      "female": 104784,
       "genderless": 0,
       "ungendered": 528,
-      "total": 197665
+      "total": 197664
     },
     "Starly": {
       "rank": 2903,
-      "male": 89457,
+      "male": 89454,
       "female": 108670,
       "genderless": 0,
       "ungendered": 0,
-      "total": 198127
+      "total": 198124
     },
     "Kangaskhan": {
       "rank": 2904,
       "male": 0,
-      "female": 202008,
+      "female": 202005,
       "genderless": 1191,
       "ungendered": 42,
-      "total": 203241
+      "total": 203238
     },
     "Lapras": {
       "rank": 2905,
@@ -23248,27 +23248,27 @@
     },
     "Marill": {
       "rank": 2906,
-      "male": 91865,
-      "female": 116175,
+      "male": 91860,
+      "female": 116172,
       "genderless": 1,
       "ungendered": 500,
-      "total": 208541
+      "total": 208533
     },
     "Aerodactyl": {
       "rank": 2907,
-      "male": 186149,
+      "male": 186153,
       "female": 33542,
       "genderless": 1,
       "ungendered": 459,
-      "total": 220151
+      "total": 220155
     },
     "Grimer": {
       "rank": 2908,
-      "male": 103832,
-      "female": 125877,
+      "male": 103827,
+      "female": 125876,
       "genderless": 0,
       "ungendered": 351,
-      "total": 230060
+      "total": 230054
     },
     "Magby": {
       "rank": 2909,
@@ -23280,35 +23280,35 @@
     },
     "Sneasel": {
       "rank": 2910,
-      "male": 116183,
-      "female": 121651,
+      "male": 116178,
+      "female": 121648,
       "genderless": 0,
       "ungendered": 464,
-      "total": 238298
+      "total": 238290
     },
     "Porygon": {
       "rank": 2911,
       "male": 0,
       "female": 0,
-      "genderless": 239379,
+      "genderless": 239378,
       "ungendered": 555,
-      "total": 239934
+      "total": 239933
     },
     "Shellder": {
       "rank": 2912,
-      "male": 118427,
-      "female": 122102,
+      "male": 118426,
+      "female": 122101,
       "genderless": 0,
       "ungendered": 478,
-      "total": 241007
+      "total": 241005
     },
     "Heracross": {
       "rank": 2913,
-      "male": 120749,
-      "female": 120522,
+      "male": 120751,
+      "female": 120521,
       "genderless": 3,
       "ungendered": 625,
-      "total": 241899
+      "total": 241900
     },
     "Snorlax": {
       "rank": 2914,
@@ -23320,51 +23320,51 @@
     },
     "Houndour": {
       "rank": 2915,
-      "male": 134668,
-      "female": 120950,
+      "male": 134667,
+      "female": 120948,
       "genderless": 4,
       "ungendered": 560,
-      "total": 256182
+      "total": 256179
     },
     "Slugma": {
       "rank": 2916,
       "male": 129263,
-      "female": 128328,
+      "female": 128326,
       "genderless": 0,
       "ungendered": 474,
-      "total": 258065
+      "total": 258063
     },
     "Spheal": {
       "rank": 2917,
-      "male": 138412,
-      "female": 120264,
+      "male": 138410,
+      "female": 120261,
       "genderless": 0,
       "ungendered": 221,
-      "total": 258897
+      "total": 258892
     },
     "Ditto": {
       "rank": 2918,
       "male": 0,
       "female": 0,
-      "genderless": 258726,
+      "genderless": 258742,
       "ungendered": 237,
-      "total": 258963
+      "total": 258979
     },
     "Magmar": {
       "rank": 2919,
-      "male": 194546,
-      "female": 67410,
+      "male": 194547,
+      "female": 67409,
       "genderless": 1,
       "ungendered": 403,
       "total": 262360
     },
     "Oddish": {
       "rank": 2920,
-      "male": 127117,
-      "female": 137109,
+      "male": 127115,
+      "female": 137102,
       "genderless": 0,
-      "ungendered": 290,
-      "total": 264516
+      "ungendered": 289,
+      "total": 264506
     },
     "Ponyta": {
       "rank": 2921,
@@ -23376,67 +23376,67 @@
     },
     "Scyther": {
       "rank": 2922,
-      "male": 148926,
-      "female": 139170,
+      "male": 148922,
+      "female": 139171,
       "genderless": 0,
       "ungendered": 543,
-      "total": 288639
+      "total": 288636
     },
     "Growlithe": {
       "rank": 2923,
-      "male": 216725,
-      "female": 92885,
+      "male": 216726,
+      "female": 92884,
       "genderless": 0,
       "ungendered": 420,
       "total": 310030
     },
     "Magikarp": {
       "rank": 2924,
-      "male": 142436,
-      "female": 174913,
+      "male": 142432,
+      "female": 174907,
       "genderless": 0,
       "ungendered": 343,
-      "total": 317692
+      "total": 317682
     },
     "Rhyhorn": {
       "rank": 2925,
-      "male": 162589,
-      "female": 157321,
+      "male": 162586,
+      "female": 157316,
       "genderless": 1,
       "ungendered": 728,
-      "total": 320639
+      "total": 320631
     },
     "Chatot": {
       "rank": 2926,
-      "male": 146864,
-      "female": 184961,
+      "male": 146861,
+      "female": 184958,
       "genderless": 0,
       "ungendered": 0,
-      "total": 331825
+      "total": 331819
     },
     "Vulpix": {
       "rank": 2927,
-      "male": 98059,
-      "female": 261660,
+      "male": 98058,
+      "female": 261657,
       "genderless": 1,
       "ungendered": 576,
-      "total": 360296
+      "total": 360292
     },
     "Piplup": {
       "rank": 2928,
       "male": 211356,
-      "female": 251146,
+      "female": 251143,
       "genderless": 0,
       "ungendered": 0,
-      "total": 462502
+      "total": 462499
     },
     "Eevee": {
       "rank": 2929,
-      "male": 452602,
-      "female": 84656,
+      "male": 452598,
+      "female": 84653,
       "genderless": 0,
       "ungendered": 629,
-      "total": 537887
+      "total": 537880
     },
     "Bulbasaur": {
       "rank": 2930,
@@ -23448,11 +23448,11 @@
     },
     "Squirtle": {
       "rank": 2931,
-      "male": 563179,
+      "male": 563178,
       "female": 98680,
       "genderless": 1,
       "ungendered": 960,
-      "total": 662820
+      "total": 662819
     },
     "Mewtwo": {
       "rank": 2932,
@@ -23464,27 +23464,27 @@
     },
     "Turtwig": {
       "rank": 2933,
-      "male": 324334,
-      "female": 382272,
+      "male": 324331,
+      "female": 382270,
       "genderless": 0,
       "ungendered": 0,
-      "total": 706606
+      "total": 706601
     },
     "Chimchar": {
       "rank": 2934,
-      "male": 459155,
-      "female": 579619,
+      "male": 459156,
+      "female": 579616,
       "genderless": 0,
       "ungendered": 0,
-      "total": 1038774
+      "total": 1038772
     },
     "Charmander": {
       "rank": 2935,
-      "male": 1291450,
-      "female": 169033,
+      "male": 1291583,
+      "female": 169059,
       "genderless": 0,
       "ungendered": 1111,
-      "total": 1461594
+      "total": 1461753
     }
   }
 }
